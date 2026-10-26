@@ -1,0 +1,140 @@
+{
+  "mode": "mapped",
+  "wn_true": 0.8,
+  "zeta_true": 0.5,
+  "n_total": 940,
+  "n_parsed": 940,
+  "n_valid": 940,
+  "parse_rate": 1.0,
+  "i3_unstable": 0,
+  "i3_unstable_rate": 0.0,
+  "i4_unstable": 0,
+  "i4_unstable_rate": 0.0,
+  "i4_cert_pass": 940,
+  "i4_cert_pass_rate": 1.0,
+  "i3_gate_pass": 940,
+  "i3_gate_pass_rate": 1.0,
+  "i3_gate_false_accept": 0,
+  "i3_gate_false_accept_rate": 0.0,
+  "i3_gate_false_accept_of_accepted": 0.0,
+  "i3_gate_false_reject": 0,
+  "i3_gate_false_reject_rate": 0.0,
+  "cost_ratio_i3": {
+    "n": 940,
+    "median": 1.0095891459488737,
+    "p95": 1.094375716978414,
+    "max": 1.257200356670284
+  },
+  "cost_ratio_i4": {
+    "n": 940,
+    "median": 1.0007306397677451,
+    "p95": 1.0307231629798732,
+    "max": 1.106016395571517
+  },
+  "bound_violations": 0,
+  "bound_violation_rate": 0.0,
+  "bound_slack": {
+    "median": 1.1148317181158025,
+    "p95": 1.9877116973695916,
+    "max": 3.47324273854831
+  },
+  "variance_topic": {
+    "i3": {
+      "eta2": 0.041159050801387015,
+      "eta2_ci": [
+        0.03969233216857241,
+        0.11621667059388288
+      ],
+      "eta2_cluster_ci": [
+        0.042067295204579795,
+        0.11405048871490506
+      ]
+    },
+    "i4": {
+      "eta2": 0.05542103047874665,
+      "eta2_ci": [
+        0.04621769480113378,
+        0.1068980588659858
+      ],
+      "eta2_cluster_ci": [
+        0.045010345020706916,
+        0.10834387035573632
+      ]
+    }
+  },
+  "instability_diff": {
+    "route": "I3 - I4",
+    "observed_diff": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "perm_abs_diff": 0.0,
+    "perm_p": 1.0,
+    "note": "成对 bootstrap 与配对置换检验；算法沿用 stats_ci.boot_ci / stats_ci.perm_test（B=10000, p=(1+c)/(B+1)）"
+  },
+  "sensitivity": [
+    {
+      "wn_true": 0.5,
+      "zeta_true": 0.5,
+      "n": 940,
+      "i3_unstable_pct": 0.0,
+      "i4_unstable_pct": 0.0,
+      "gate_false_accept_pct": 0.0
+    },
+    {
+      "wn_true": 0.8,
+      "zeta_true": 0.5,
+      "n": 940,
+      "i3_unstable_pct": 0.0,
+      "i4_unstable_pct": 0.0,
+      "gate_false_accept_pct": 0.0
+    },
+    {
+      "wn_true": 1.2,
+      "zeta_true": 0.5,
+      "n": 940,
+      "i3_unstable_pct": 2.6595744680851063,
+      "i4_unstable_pct": 0.0,
+      "gate_false_accept_pct": 2.6595744680851063
+    },
+    {
+      "wn_true": 0.8,
+      "zeta_true": 0.3,
+      "n": 940,
+      "i3_unstable_pct": 0.0,
+      "i4_unstable_pct": 0.0,
+      "gate_false_accept_pct": 0.0
+    },
+    {
+      "wn_true": 0.8,
+      "zeta_true": 0.8,
+      "n": 940,
+      "i3_unstable_pct": 0.0,
+      "i4_unstable_pct": 0.0,
+      "gate_false_accept_pct": 0.0
+    }
+  ],
+  "meta": {
+    "timestamp": "20261024_013227",
+    "provenance": "real-data-hf",
+    "backend": "hf",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "dataset": "counselchat",
+    "dataset_path": "data/counselchat/20220401_counsel_chat.csv",
+    "temperature": 0.3,
+    "repeats": 1,
+    "seed": 20260921,
+    "wn_true": 0.8,
+    "zeta_true": 0.5,
+    "n_records": 940,
+    "core_modules": {
+      "case_study": "cospec_core/case_study.py",
+      "cost_probe": "cospec_core/cost_probe.py",
+      "anchoring_probe_v4": "cospec_core/anchoring_probe_v4.py",
+      "stats_ci": "cospec_core/stats_ci.py",
+      "baselines": "cospec_core/baselines.py"
+    },
+    "placeholder_notice": null
+  }
+}

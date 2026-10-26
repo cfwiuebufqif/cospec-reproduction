@@ -1,0 +1,45 @@
+﻿==============================================================================
+DRY-RUN 数据集加载自检  dataset=counselchat  role=primary
+==============================================================================
+  来源: https://huggingface.co/datasets/nbertagnolli/counsel-chat
+  许可: MIT
+  口径: 2022-04-01 爬取自 counselchat.com 的匿名求助者英文第一人称求助帖；同一问题可对应多条咨询师回答，按 questionID 去重为一条来访者记录。
+  加载记录: 940 条；话题数: 31
+  文本长度(字符): min 19  median 241.5  mean 299.9  max 2690
+  话题分布:
+    depression                   144
+    intimacy                     116
+    relationships                107
+    anxiety                      105
+    family-conflict              63
+    parenting                    56
+    self-esteem                  49
+    relationship-dissolution     36
+    behavioral-change            36
+    anger-management             28
+    trauma                       26
+    lgbtq                        21
+    marriage                     20
+    domestic-violence            16
+    grief-and-loss               13
+    social-relationships         13
+    workplace-relationships      12
+    substance-abuse              11
+    legal-regulatory             11
+    spirituality                 8
+    eating-disorders             7
+    professional-ethics          7
+    human-sexuality              7
+    counseling-fundamentals      7
+    sleep-improvement            5
+    addiction                    5
+    diagnosis                    4
+    stress                       3
+    children-adolescents         2
+    military-issues              1
+    self-harm                    1
+
+  首条样例 id=cc-0
+  text: I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac. I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years. I’ve never had counseling a
+
+  dry-run 结束：未构造 LLM 后端，未产生任何模型输出。

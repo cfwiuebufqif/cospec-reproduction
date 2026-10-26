@@ -1,0 +1,234 @@
+{
+ "mech_1": {
+  "domain": "mechanical",
+  "true_wn": 2.0,
+  "true_zeta": 0.2,
+  "params": [
+   1.0,
+   4.0,
+   0.8
+  ]
+ },
+ "mech_2": {
+  "domain": "mechanical",
+  "true_wn": 2.8284271247461903,
+  "true_zeta": 0.17677669529663687,
+  "params": [
+   2.0,
+   16.0,
+   2.0
+  ]
+ },
+ "mech_3": {
+  "domain": "mechanical",
+  "true_wn": 2.0,
+  "true_zeta": 0.25,
+  "params": [
+   0.5,
+   2.0,
+   0.5
+  ]
+ },
+ "mech_4": {
+  "domain": "mechanical",
+  "true_wn": 2.0,
+  "true_zeta": 0.375,
+  "params": [
+   4.0,
+   16.0,
+   6.0
+  ]
+ },
+ "mech_5": {
+  "domain": "mechanical",
+  "true_wn": 3.0,
+  "true_zeta": 0.19999999999999998,
+  "params": [
+   1.0,
+   9.0,
+   1.2
+  ]
+ },
+ "mech_6": {
+  "domain": "mechanical",
+  "true_wn": 2.0,
+  "true_zeta": 0.8,
+  "params": [
+   2.5,
+   10.0,
+   8.0
+  ]
+ },
+ "mech_7": {
+  "domain": "mechanical",
+  "true_wn": 2.0,
+  "true_zeta": 1.0,
+  "params": [
+   3.0,
+   12.0,
+   12.0
+  ]
+ },
+ "mech_8": {
+  "domain": "mechanical",
+  "true_wn": 2.0,
+  "true_zeta": 1.25,
+  "params": [
+   2.0,
+   8.0,
+   10.0
+  ]
+ },
+ "rlc_1": {
+  "domain": "rlc",
+  "true_wn": 31.622776601683796,
+  "true_zeta": 0.06324555320336758,
+  "params": [
+   1.0,
+   0.001,
+   4.0
+  ]
+ },
+ "rlc_2": {
+  "domain": "rlc",
+  "true_wn": 31.622776601683796,
+  "true_zeta": 0.3162277660168379,
+  "params": [
+   0.5,
+   0.002,
+   10.0
+  ]
+ },
+ "rlc_3": {
+  "domain": "rlc",
+  "true_wn": 31.622776601683796,
+  "true_zeta": 0.15811388300841894,
+  "params": [
+   2.0,
+   0.0005,
+   20.0
+  ]
+ },
+ "rlc_4": {
+  "domain": "rlc",
+  "true_wn": 316.2277660168379,
+  "true_zeta": 0.7905694150420948,
+  "params": [
+   0.1,
+   0.0001,
+   50.0
+  ]
+ },
+ "rlc_5": {
+  "domain": "rlc",
+  "true_wn": 15.811388300841898,
+  "true_zeta": 0.25298221281347033,
+  "params": [
+   1.0,
+   0.004,
+   8.0
+  ]
+ },
+ "rlc_6": {
+  "domain": "rlc",
+  "true_wn": 15.811388300841898,
+  "true_zeta": 0.3794733192202055,
+  "params": [
+   0.5,
+   0.008,
+   6.0
+  ]
+ },
+ "rlc_7": {
+  "domain": "rlc",
+  "true_wn": 31.622776601683796,
+  "true_zeta": 0.9992797406132079,
+  "params": [
+   1.0,
+   0.001,
+   63.2
+  ]
+ },
+ "rlc_8": {
+  "domain": "rlc",
+  "true_wn": 31.622776601683796,
+  "true_zeta": 1.5811388300841895,
+  "params": [
+   1.0,
+   0.001,
+   100.0
+  ]
+ },
+ "thermal_1": {
+  "domain": "thermal",
+  "true_wn": 0.1,
+  "true_zeta": 1.0,
+  "params": [
+   10.0,
+   10.0
+  ]
+ },
+ "thermal_2": {
+  "domain": "thermal",
+  "true_wn": 0.1,
+  "true_zeta": 1.25,
+  "params": [
+   20.0,
+   5.0
+  ]
+ },
+ "thermal_3": {
+  "domain": "thermal",
+  "true_wn": 0.1,
+  "true_zeta": 2.6,
+  "params": [
+   2.0,
+   50.0
+  ]
+ },
+ "thermal_4": {
+  "domain": "thermal",
+  "true_wn": 0.1,
+  "true_zeta": 5.05,
+  "params": [
+   1.0,
+   100.0
+  ]
+ },
+ "thermal_5": {
+  "domain": "thermal",
+  "true_wn": 0.03333333333333333,
+  "true_zeta": 1.0,
+  "params": [
+   30.0,
+   30.0
+  ]
+ },
+ "thermal_6": {
+  "domain": "thermal",
+  "true_wn": 0.05,
+  "true_zeta": 1.25,
+  "params": [
+   40.0,
+   10.0
+  ]
+ },
+ "thermal_7": {
+  "domain": "thermal",
+  "true_wn": 0.03333333333333333,
+  "true_zeta": 1.25,
+  "params": [
+   60.0,
+   15.0
+  ]
+ },
+ "thermal_8": {
+  "domain": "thermal",
+  "true_wn": 0.05,
+  "true_zeta": 2.125,
+  "params": [
+   80.0,
+   5.0
+  ]
+ }
+}

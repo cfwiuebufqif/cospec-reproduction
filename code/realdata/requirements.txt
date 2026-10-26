@@ -1,0 +1,20 @@
+# =============================================================================
+# CoSpec real-data adapter -- Python dependencies
+# The adapter itself needs numpy / scipy only; LLM collection uses the standard
+# library urllib, so requests is not required.
+# =============================================================================
+
+# Required: numerical computing (offline self-test and real runs alike)
+# scipy>=1.14 for Python 3.13 compatibility; 1.11+ is fine on Python 3.10/3.11.
+numpy>=1.26
+scipy>=1.14
+
+# -----------------------------------------------------------------------------
+# Optional: install only to serve an open-weight model locally on a GPU machine.
+# vLLM is not imported by this adapter; neither offline self-tests nor
+# --backend openai against a remote endpoint need it.
+# Install it separately on the GPU machine, not in the base image:
+#     pip install vllm
+# See README.md "Running" for starting the server.
+# -----------------------------------------------------------------------------
+# vllm

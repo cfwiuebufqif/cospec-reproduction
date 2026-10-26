@@ -1,0 +1,4322 @@
+[
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime, mild (PHQ-9 10), reactive depressive episode in a high-functioning patient with intact social and occupational supports suggests relatively rapid natural recovery (higher omega_n) with a smooth, non-oscillatory course (zeta > 1).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A first lifetime, mild (PHQ-9 10), reactive depressive episode in a high-functioning patient with intact social and occupational supports suggests relatively rapid natural recovery (higher omega_n) with a smooth, non-oscillatory course (zeta > 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime depressive episode with clear situational trigger, preserved functioning, and strong social support suggests relatively rapid natural recovery with a smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A first lifetime depressive episode with clear situational trigger, preserved functioning, and strong social support suggests relatively rapid natural recovery with a smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests relatively rapid and smooth recovery without oscillation, warranting a higher natural frequency and damping ratio above 1.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests relatively rapid and smooth recovery without oscillation, warranting a higher natural frequency and damping ratio above 1.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests relatively rapid and smooth recovery, warranting a higher natural frequency and an overdamped (non-oscillatory) trajectory.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests relatively rapid and smooth recovery, warranting a higher natural frequency and an overdamped (non-oscillatory) trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests relatively rapid and smooth natural recovery, warranting a higher natural frequency and an overdamped (non-oscillatory) trajectory.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests relatively rapid and smooth natural recovery, warranting a higher natural frequency and an overdamped (non-oscillatory) trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depression in a socially and physically active graduate student with clear situational trigger suggests relatively fast natural recovery with smooth, non-oscillatory dynamics.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depression in a socially and physically active graduate student with clear situational trigger suggests relatively fast natural recovery with smooth, non-oscillatory dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.35,
+    "zeta": 0.9,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active graduate student with good functioning suggests relatively fast natural recovery (higher omega_n) and a largely non-oscillatory, smoothly resolving course (zeta near 1).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 0.9, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active graduate student with good functioning suggests relatively fast natural recovery (higher omega_n) and a largely non-oscillatory, smoothly resolving course (zeta near 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a high-functioning, socially and physically active graduate student with no prior history suggests relatively rapid natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a high-functioning, socially and physically active graduate student with no prior history suggests relatively rapid natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially engaged, physically active graduate student with no prior history suggests relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially engaged, physically active graduate student with no prior history suggests relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A prior full remission within three months and current mild-moderate severity (PHQ-9 13) with good psychosocial support suggest relatively fast natural recovery, while the absence of comorbidity and stable functioning favor a smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A prior full remission within three months and current mild-moderate severity (PHQ-9 13) with good psychosocial support suggest relatively fast natural recovery, while the absence of comorbidity and stable functioning favor a smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A prior full remission within three months and current mild-moderate symptoms with intact functioning and strong social support suggest relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A prior full remission within three months and current mild-moderate symptoms with intact functioning and strong social support suggest relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (zeta > 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "A prior full remission within three months and a mild current episode (PHQ-9 13) with good psychosocial support suggest moderately fast natural recovery, while the absence of comorbidity and stable functioning favor a smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"A prior full remission within three months and a mild current episode (PHQ-9 13) with good psychosocial support suggest moderately fast natural recovery, while the absence of comorbidity and stable functioning favor a smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 1.2,
+    "reasoning": "A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderate natural recovery speed and an overdamped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.2, \"reasoning\": \"A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderate natural recovery speed and an overdamped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 1.2,
+    "reasoning": "A prior full remission within three months and current mild-moderate symptoms with good psychosocial support suggest moderate natural recovery speed, while the absence of comorbidity and stable functioning favor a smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.2, \"reasoning\": \"A prior full remission within three months and current mild-moderate symptoms with good psychosocial support suggest moderate natural recovery speed, while the absence of comorbidity and stable functioning favor a smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment adherence suggest slow natural recovery and an underdamped, oscillatory course with risk of relapse.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment adherence suggest slow natural recovery and an underdamped, oscillatory course with risk of relapse.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, limited social support, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery with underdamped, oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, limited social support, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery with underdamped, oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery and underdamped, oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery and underdamped, oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "A chronic, recurrent episode with no identifiable precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory symptom course.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"A chronic, recurrent episode with no identifiable precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory symptom course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic two-decade course with current severe episode, social isolation, and treatment resistance suggest very slow natural recovery (low omega_n) and an underdamped, oscillatory trajectory prone to relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic two-decade course with current severe episode, social isolation, and treatment resistance suggest very slow natural recovery (low omega_n) and an underdamped, oscillatory trajectory prone to relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic two-decade course with superimposed persistent episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and an underdamped, oscillatory trajectory prone to relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic two-decade course with superimposed persistent episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and an underdamped, oscillatory trajectory prone to relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an oscillatory, poorly damped course (low zeta) rather than smooth resolution.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an oscillatory, poorly damped course (low zeta) rather than smooth resolution.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an underdamped, oscillatory course with likely relapses (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an underdamped, oscillatory course with likely relapses (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an underdamped, oscillatory course with frequent relapses (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an underdamped, oscillatory course with frequent relapses (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, and ongoing alcohol use suggests slow natural recovery (low omega_n) and an underdamped, oscillatory course with risk of relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, and ongoing alcohol use suggests slow natural recovery (low omega_n) and an underdamped, oscillatory course with risk of relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and an underdamped, oscillatory course with risk of relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and an underdamped, oscillatory course with risk of relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, and active alcohol use suggests slow natural recovery (low omega_n) and an underdamped, oscillatory course with risk of relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, and active alcohol use suggests slow natural recovery (low omega_n) and an underdamped, oscillatory course with risk of relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with high oscillatory instability, warranting low natural frequency and low damping ratio.",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with high oscillatory instability, warranting low natural frequency and low damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.15,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and underdamped, oscillatory course (low zeta).",
+    "raw_response": "{\"omega_n\": 0.15, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and underdamped, oscillatory course (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a relatively brisk but smooth, non-oscillatory recovery, warranting a moderate natural frequency and overdamped ratio.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a relatively brisk but smooth, non-oscillatory recovery, warranting a moderate natural frequency and overdamped ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory dynamics, consistent with an over-damped system.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory dynamics, consistent with an over-damped system.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "This first-episode, mild, reactive depression in a high-functioning patient with strong social support and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory dynamics, warranting a modest omega_n and an overdamped zeta above 1.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"This first-episode, mild, reactive depression in a high-functioning patient with strong social support and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory dynamics, warranting a modest omega_n and an overdamped zeta above 1.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "This first-episode, mild, reactive depression in a high-functioning patient with intact social support and employment suggests a moderate natural recovery speed with smooth, non-oscillatory improvement, so a lower-moderate omega_n and overdamped zeta above 1 are appropriate.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"This first-episode, mild, reactive depression in a high-functioning patient with intact social support and employment suggests a moderate natural recovery speed with smooth, non-oscillatory improvement, so a lower-moderate omega_n and overdamped zeta above 1 are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime depressive episode with clear situational trigger, preserved functioning, strong social support, and no comorbidity suggests relatively rapid and smooth natural recovery without oscillation.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A first lifetime depressive episode with clear situational trigger, preserved functioning, strong social support, and no comorbidity suggests relatively rapid and smooth natural recovery without oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially engaged, physically active graduate student with no prior history suggests moderately fast natural recovery with little oscillation, consistent with a non-oscillatory, mildly damped trajectory.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially engaged, physically active graduate student with no prior history suggests moderately fast natural recovery with little oscillation, consistent with a non-oscillatory, mildly damped trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction (PHQ-9=9) in a socially engaged, physically active graduate student with clear situational trigger and no prior episodes suggests moderately slow but stable, non-oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction (PHQ-9=9) in a socially engaged, physically active graduate student with clear situational trigger and no prior episodes suggests moderately slow but stable, non-oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active graduate student with no prior history suggests moderately rapid and smoothly damped recovery without prominent oscillation.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active graduate student with no prior history suggests moderately rapid and smoothly damped recovery without prominent oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a highly functional, socially and physically active graduate student with no prior history suggests a relatively rapid and non-oscillatory recovery, warranting a moderate natural frequency and overdamped response.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a highly functional, socially and physically active graduate student with no prior history suggests a relatively rapid and non-oscillatory recovery, warranting a moderate natural frequency and overdamped response.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests moderately fast and non-oscillatory recovery, so a higher natural frequency and overdamped ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests moderately fast and non-oscillatory recovery, so a higher natural frequency and overdamped ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A prior full remission within three months and current mild-moderate symptoms (PHQ-9 13) with good psychosocial support suggest a moderately paced, non-oscillatory recovery, so a lower natural frequency and overdamped response are appropriate.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A prior full remission within three months and current mild-moderate symptoms (PHQ-9 13) with good psychosocial support suggest a moderately paced, non-oscillatory recovery, so a lower natural frequency and overdamped response are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, no comorbidity, and good social/occupational support, while a damping ratio above 1 reflects a smooth, non-oscillatory recovery course typical of unipolar depressive episodes responding to treatment.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, no comorbidity, and good social/occupational support, while a damping ratio above 1 reflects a smooth, non-oscillatory recovery course typical of unipolar depressive episodes responding to treatment.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests a moderate natural recovery speed with smooth, non-oscillatory course, so moderate omega_n and overdamped zeta above 1.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests a moderate natural recovery speed with smooth, non-oscillatory course, so moderate omega_n and overdamped zeta above 1.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A moderate prior episode severity (PHQ-9 13), clear bereavement trigger, strong social support, and prior full remission suggest a fairly rapid but non-oscillatory natural recovery, so moderate natural frequency and overdamped dynamics.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A moderate prior episode severity (PHQ-9 13), clear bereavement trigger, strong social support, and prior full remission suggest a fairly rapid but non-oscillatory natural recovery, so moderate natural frequency and overdamped dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A mild, reactive second episode in a patient with prior full remission, good support, and reduced work stress suggests a moderate natural recovery speed with non-oscillatory, smoothly resolving dynamics.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A mild, reactive second episode in a patient with prior full remission, good support, and reduced work stress suggests a moderate natural recovery speed with non-oscillatory, smoothly resolving dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.35,
+    "zeta": 1.2,
+    "reasoning": "Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery and a damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.2, \"reasoning\": \"Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery and a damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.9,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery (low omega_n) with a fairly damped, non-oscillatory course (moderate-high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.9, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery (low omega_n) with a fairly damped, non-oscillatory course (moderate-high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.35,
+    "zeta": 0.9,
+    "reasoning": "Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery with low oscillation risk, warranting low omega_n and near-critical damping.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 0.9, \"reasoning\": \"Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery with low oscillation risk, warranting low omega_n and near-critical damping.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.9,
+    "reasoning": "Chronic nine-month episode with no precipitant, high severity, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery (low omega_n) with a fairly damped, non-oscillatory course (moderate-high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.9, \"reasoning\": \"Chronic nine-month episode with no precipitant, high severity, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery (low omega_n) with a fairly damped, non-oscillatory course (moderate-high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.9,
+    "reasoning": "Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery (low omega_n) with mildly underdamped, non-oscillatory course (zeta near 1).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.9, \"reasoning\": \"Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery (low omega_n) with mildly underdamped, non-oscillatory course (zeta near 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.35,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with current severe episode, insomnia, pain, isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with current severe episode, insomnia, pain, isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.25,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an overdamped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.25, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and an overdamped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.35,
+    "zeta": 1.4,
+    "reasoning": "Two decades of persistent low mood with a year-long superimposed episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.4, \"reasoning\": \"Two decades of persistent low mood with a year-long superimposed episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade depression with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade depression with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.25,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting rigid, persistent symptom maintenance.",
+    "raw_response": "{\"omega_n\": 0.25, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting rigid, persistent symptom maintenance.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.2,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with high oscillatory risk, warranting low natural frequency and low damping ratio.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.2, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with high oscillatory risk, warranting low natural frequency and low damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.35,
+    "zeta": 0.45,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with underdamped, oscillatory course prone to relapse.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 0.45, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with underdamped, oscillatory course prone to relapse.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.2,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) with an oscillatory, underdamped course prone to relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.2, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) with an oscillatory, underdamped course prone to relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with underdamped, oscillatory course prone to relapse.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery with underdamped, oscillatory course prone to relapse.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.9,
+    "reasoning": "Chronic, recurrent depression with insidious onset, high severity, and ongoing alcohol use suggests slow natural recovery (low omega_n) and a largely non-oscillatory, damped course (zeta near 1).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.9, \"reasoning\": \"Chronic, recurrent depression with insidious onset, high severity, and ongoing alcohol use suggests slow natural recovery (low omega_n) and a largely non-oscillatory, damped course (zeta near 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 2.5,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 2.5, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 1.1,
+    "reasoning": "A first lifetime mild-to-moderate depressive episode in a high-functioning patient with intact social support and employment suggests a relatively slow natural recovery (low omega_n) that is likely smooth and non-oscillatory (zeta near or above 1).",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.1, \"reasoning\": \"A first lifetime mild-to-moderate depressive episode in a high-functioning patient with intact social support and employment suggests a relatively slow natural recovery (low omega_n) that is likely smooth and non-oscillatory (zeta near or above 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.8,
+    "zeta": 1.1,
+    "reasoning": "A first lifetime mild-moderate depressive episode in a high-functioning patient with intact social support and no comorbidity suggests a relatively brisk but non-oscillatory recovery, warranting a moderate natural frequency and slightly overdamped damping ratio.",
+    "raw_response": "{\"omega_n\": 1.8, \"zeta\": 1.1, \"reasoning\": \"A first lifetime mild-moderate depressive episode in a high-functioning patient with intact social support and no comorbidity suggests a relatively brisk but non-oscillatory recovery, warranting a moderate natural frequency and slightly overdamped damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 2.5,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild-moderate depressive episode in a high-functioning patient with intact social support and no comorbidity suggests a moderately fast natural recovery (omega_n ~2.5) with an over-damped, non-oscillatory trajectory (zeta >1) reflecting resilience without cycling risk.",
+    "raw_response": "{\"omega_n\": 2.5, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild-moderate depressive episode in a high-functioning patient with intact social support and no comorbidity suggests a moderately fast natural recovery (omega_n ~2.5) with an over-damped, non-oscillatory trajectory (zeta >1) reflecting resilience without cycling risk.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.5,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a moderately fast, non-oscillatory recovery, warranting a mid-range natural frequency and an overdamped ratio above 1.",
+    "raw_response": "{\"omega_n\": 2.5, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a moderately fast, non-oscillatory recovery, warranting a mid-range natural frequency and an overdamped ratio above 1.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 2.5,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests moderately fast and well-damped recovery without oscillation.",
+    "raw_response": "{\"omega_n\": 2.5, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests moderately fast and well-damped recovery without oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 2.2,
+    "zeta": 1.1,
+    "reasoning": "A mild, first-episode, reactive depression in a socially and physically active young adult with no prior history suggests moderately fast natural recovery (omega_n ~2.2) and an overdamped, non-oscillatory course (zeta >1).",
+    "raw_response": "{\"omega_n\": 2.2, \"zeta\": 1.1, \"reasoning\": \"A mild, first-episode, reactive depression in a socially and physically active young adult with no prior history suggests moderately fast natural recovery (omega_n ~2.2) and an overdamped, non-oscillatory course (zeta >1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 2.5,
+    "zeta": 1.2,
+    "reasoning": "Mild single-episode depression with strong social and exercise routines suggests moderately fast recovery with little oscillation, so a higher natural frequency and overdamped response are appropriate.",
+    "raw_response": "{\"omega_n\": 2.5, \"zeta\": 1.2, \"reasoning\": \"Mild single-episode depression with strong social and exercise routines suggests moderately fast recovery with little oscillation, so a higher natural frequency and overdamped response are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 2.2,
+    "zeta": 1.1,
+    "reasoning": "A mild, first-episode depressive reaction in a high-functioning, socially and physically active graduate student with no prior history suggests moderately rapid natural recovery without prominent oscillation, so a moderate natural frequency and slightly overdamped damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 2.2, \"zeta\": 1.1, \"reasoning\": \"A mild, first-episode depressive reaction in a high-functioning, socially and physically active graduate student with no prior history suggests moderately rapid natural recovery without prominent oscillation, so a moderate natural frequency and slightly overdamped damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.5,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests moderately fast recovery (omega_n ~2.5) and an over-damped, non-oscillatory course (zeta >1) without chronicity or prior episodes.",
+    "raw_response": "{\"omega_n\": 2.5, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests moderately fast recovery (omega_n ~2.5) and an over-damped, non-oscillatory course (zeta >1) without chronicity or prior episodes.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.8,
+    "zeta": 1.1,
+    "reasoning": "A prior full remission within three months and current mild-moderate symptoms with good psychosocial support suggest moderately paced recovery, while the absence of prior chronicity or comorbidity and a clear bereavement trigger favor a smooth, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 1.8, \"zeta\": 1.1, \"reasoning\": \"A prior full remission within three months and current mild-moderate symptoms with good psychosocial support suggest moderately paced recovery, while the absence of prior chronicity or comorbidity and a clear bereavement trigger favor a smooth, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.8,
+    "zeta": 1.2,
+    "reasoning": "A reactive second episode after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with little oscillation, so a moderate natural frequency and overdamped response are appropriate.",
+    "raw_response": "{\"omega_n\": 1.8, \"zeta\": 1.2, \"reasoning\": \"A reactive second episode after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with little oscillation, so a moderate natural frequency and overdamped response are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.8,
+    "zeta": 1.2,
+    "reasoning": "A mild, reactive second episode in a patient with prior full remission, good support, and reduced work stress suggests moderate natural recovery speed with smooth, non-oscillatory course, so omega_n is modest and zeta is above 1 (overdamped).",
+    "raw_response": "{\"omega_n\": 1.8, \"zeta\": 1.2, \"reasoning\": \"A mild, reactive second episode in a patient with prior full remission, good support, and reduced work stress suggests moderate natural recovery speed with smooth, non-oscillatory course, so omega_n is modest and zeta is above 1 (overdamped).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.8,
+    "zeta": 1.1,
+    "reasoning": "A mild, reactive second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with slight overshoot tendency, so a moderate natural frequency and mildly over-damped damping ratio.",
+    "raw_response": "{\"omega_n\": 1.8, \"zeta\": 1.1, \"reasoning\": \"A mild, reactive second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with slight overshoot tendency, so a moderate natural frequency and mildly over-damped damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 1.1,
+    "reasoning": "A mild, reactive second episode in a patient with good prior recovery, social support, and reduced work stress suggests a slow-to-moderate natural recovery that is likely smooth and non-oscillatory rather than rapid or cyclical.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.1, \"reasoning\": \"A mild, reactive second episode in a patient with good prior recovery, social support, and reduced work stress suggests a slow-to-moderate natural recovery that is likely smooth and non-oscillatory rather than rapid or cyclical.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 0.3,
+    "reasoning": "Chronic, recurrent episode with no precipitant, high severity, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.3, \"reasoning\": \"Chronic, recurrent episode with no precipitant, high severity, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.35,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, high PHQ-9, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery with a tendency toward oscillatory, relapsing course.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.35, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, high PHQ-9, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery with a tendency toward oscillatory, relapsing course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.35,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery with a tendency toward oscillatory, relapse-prone dynamics.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.35, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery with a tendency toward oscillatory, relapse-prone dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.35,
+    "reasoning": "Chronic nine-month episode with no precipitant, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory symptom course.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.35, \"reasoning\": \"Chronic nine-month episode with no precipitant, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with underdamped, oscillatory symptom course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.9,
+    "reasoning": "Chronic nine-month episode with no precipitant, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery and a damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.9, \"reasoning\": \"Chronic nine-month episode with no precipitant, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery and a damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade depression with current severe episode, comorbid insomnia and pain, social isolation, and multiple failed treatments suggest slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade depression with current severe episode, comorbid insomnia and pain, social isolation, and multiple failed treatments suggest slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with superimposed persistent episode, severe PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with superimposed persistent episode, severe PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 1.8,
+    "reasoning": "Chronic two-decade depression with current severe episode, social isolation, insomnia, pain, and multiple failed treatments suggests very slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.8, \"reasoning\": \"Chronic two-decade depression with current severe episode, social isolation, insomnia, pain, and multiple failed treatments suggests very slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 1.6,
+    "reasoning": "Two decades of persistent low mood, current severe episode, chronic pain, insomnia, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.6, \"reasoning\": \"Two decades of persistent low mood, current severe episode, chronic pain, insomnia, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 1.6,
+    "reasoning": "Two decades of persistent low mood, current severe episode, chronic pain, insomnia, social isolation, and multiple failed treatments suggest very slow natural recovery and heavily overdamped, non-oscillatory dynamics.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.6, \"reasoning\": \"Two decades of persistent low mood, current severe episode, chronic pain, insomnia, social isolation, and multiple failed treatments suggest very slow natural recovery and heavily overdamped, non-oscillatory dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.35,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) with an underdamped, oscillatory course prone to relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.35, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) with an underdamped, oscillatory course prone to relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, alcohol use, and social isolation suggests slow natural recovery (low omega_n) with an underdamped, oscillatory course prone to relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, alcohol use, and social isolation suggests slow natural recovery (low omega_n) with an underdamped, oscillatory course prone to relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and limited social support suggests slow natural recovery (low omega_n) and an oscillatory, underdamped course (low zeta) prone to relapse.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and limited social support suggests slow natural recovery (low omega_n) and an oscillatory, underdamped course (low zeta) prone to relapse.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.4,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and limited social support suggests slow natural recovery with underdamped, oscillatory course.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.4, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and limited social support suggests slow natural recovery with underdamped, oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.6,
+    "reasoning": "Chronic recurrent depression with insidious onset, alcohol use, and social isolation suggests slow natural recovery (low omega_n) with moderate underdamping (zeta < 1) reflecting partial response and ongoing oscillation risk.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.6, \"reasoning\": \"Chronic recurrent depression with insidious onset, alcohol use, and social isolation suggests slow natural recovery (low omega_n) with moderate underdamping (zeta < 1) reflecting partial response and ongoing oscillation risk.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A first lifetime mild depressive episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with fairly smooth, minimally oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A first lifetime mild depressive episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with fairly smooth, minimally oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.9,
+    "zeta": 0.4,
+    "reasoning": "A first lifetime mild-to-moderate depressive episode in a high-functioning patient with intact social and occupational supports suggests a relatively brisk natural recovery (moderate-high omega_n) that is largely smooth rather than oscillatory (moderate-high zeta).",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 0.4, \"reasoning\": \"A first lifetime mild-to-moderate depressive episode in a high-functioning patient with intact social and occupational supports suggests a relatively brisk natural recovery (moderate-high omega_n) that is largely smooth rather than oscillatory (moderate-high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A first lifetime depressive episode with moderate PHQ-9, clear situational trigger, intact functioning, and strong social support suggests a relatively favorable natural recovery rate with mild oscillatory risk, warranting a moderate natural frequency and damping ratio.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A first lifetime depressive episode with moderate PHQ-9, clear situational trigger, intact functioning, and strong social support suggests a relatively favorable natural recovery rate with mild oscillatory risk, warranting a moderate natural frequency and damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.4,
+    "reasoning": "A first lifetime, mild-to-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests relatively rapid natural recovery with moderate damping, avoiding marked oscillation.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.4, \"reasoning\": \"A first lifetime, mild-to-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests relatively rapid natural recovery with moderate damping, avoiding marked oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A first lifetime mild depressive episode in a highly functional patient with strong social support and no comorbidity suggests moderate natural recovery speed and relatively smooth, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A first lifetime mild depressive episode in a highly functional patient with strong social support and no comorbidity suggests moderate natural recovery speed and relatively smooth, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.4,
+    "reasoning": "A mild, first-episode depressive reaction in a highly functional, socially and physically active graduate student with no prior history suggests relatively fast natural recovery with moderate damping, avoiding strong oscillation.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.4, \"reasoning\": \"A mild, first-episode depressive reaction in a highly functional, socially and physically active graduate student with no prior history suggests relatively fast natural recovery with moderate damping, avoiding strong oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.9,
+    "zeta": 0.35,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active graduate student with no prior history suggests moderately fast natural recovery with some residual emotional oscillation, placing omega_n near the middle-upper range and zeta in the mid-range.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 0.35, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active graduate student with no prior history suggests moderately fast natural recovery with some residual emotional oscillation, placing omega_n near the middle-upper range and zeta in the mid-range.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.4,
+    "reasoning": "A single mild episode (PHQ-9=9) with strong social and exercise routines suggests relatively fast natural recovery (higher omega_n) and moderate damping without marked oscillation.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.4, \"reasoning\": \"A single mild episode (PHQ-9=9) with strong social and exercise routines suggests relatively fast natural recovery (higher omega_n) and moderate damping without marked oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.9,
+    "zeta": 0.4,
+    "reasoning": "A mild, first-episode depressive reaction in a highly functional, socially and physically active graduate student with no prior history suggests moderately rapid natural recovery with some residual emotional oscillation, warranting a mid-range natural frequency and a damping ratio toward the less oscillatory end of the specified range.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 0.4, \"reasoning\": \"A mild, first-episode depressive reaction in a highly functional, socially and physically active graduate student with no prior history suggests moderately rapid natural recovery with some residual emotional oscillation, warranting a mid-range natural frequency and a damping ratio toward the less oscillatory end of the specified range.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests moderate natural recovery speed and some emotional oscillation, placing omega_n near the middle of the range and zeta in the mid-to-upper range for smoother but not fully overdamped recovery.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests moderate natural recovery speed and some emotional oscillation, placing omega_n near the middle of the range and zeta in the mid-to-upper range for smoother but not fully overdamped recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with some emotional oscillation, warranting a mid-range natural frequency and a damping ratio reflecting partial but not fully smooth resolution.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with some emotional oscillation, warranting a mid-range natural frequency and a damping ratio reflecting partial but not fully smooth resolution.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.6,
+    "zeta": 0.4,
+    "reasoning": "A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, no comorbidity, and strong social/occupational supports, while a moderately low damping ratio reflects some expected emotional oscillation during grief-related recovery.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 0.4, \"reasoning\": \"A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, no comorbidity, and strong social/occupational supports, while a moderately low damping ratio reflects some expected emotional oscillation during grief-related recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A reactive second episode after bereavement in a high-functioning patient with prior full remission and good psychosocial support suggests moderately paced recovery with some emotional oscillation, warranting a mid-range natural frequency and a damping ratio that allows mild overshoot rather than a purely smooth return.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A reactive second episode after bereavement in a high-functioning patient with prior full remission and good psychosocial support suggests moderately paced recovery with some emotional oscillation, warranting a mid-range natural frequency and a damping ratio that allows mild overshoot rather than a purely smooth return.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 0.4,
+    "reasoning": "A second episode after 11 years with a clear bereavement trigger, mild-moderate severity (PHQ-9 13), no comorbidity, and strong social/occupational support suggests a moderately paced recovery with some mild oscillation, warranting a mid-range natural frequency and a damping ratio above the underdamped minimum.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.4, \"reasoning\": \"A second episode after 11 years with a clear bereavement trigger, mild-moderate severity (PHQ-9 13), no comorbidity, and strong social/occupational support suggests a moderately paced recovery with some mild oscillation, warranting a mid-range natural frequency and a damping ratio above the underdamped minimum.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.6,
+    "zeta": 0.4,
+    "reasoning": "A second episode after 11 years with prior full remission, clear bereavement trigger, mild-moderate PHQ-9, no comorbidity, and strong social/occupational support suggests a moderately paced natural recovery with some mild oscillation, warranting mid-range omega_n and a damping ratio in the lower-middle of the specified range.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 0.4, \"reasoning\": \"A second episode after 11 years with prior full remission, clear bereavement trigger, mild-moderate PHQ-9, no comorbidity, and strong social/occupational support suggests a moderately paced natural recovery with some mild oscillation, warranting mid-range omega_n and a damping ratio in the lower-middle of the specified range.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "A chronic nine-month episode with no identifiable precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery with moderate damping, placing both parameters in the lower-mid range.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"A chronic nine-month episode with no identifiable precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery with moderate damping, placing both parameters in the lower-mid range.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.2,
+    "reasoning": "Chronic, recurrent, treatment-resistant depression with comorbid anxiety, social isolation, and no identifiable precipitant suggests slow natural recovery with a tendency toward oscillatory, unstable symptom course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.2, \"reasoning\": \"Chronic, recurrent, treatment-resistant depression with comorbid anxiety, social isolation, and no identifiable precipitant suggests slow natural recovery with a tendency toward oscillatory, unstable symptom course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery and moderately damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery and moderately damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery with moderate oscillation risk, warranting low natural frequency and mid-range damping.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery with moderate oscillation risk, warranting low natural frequency and mid-range damping.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery (low omega_n) and a relatively smooth, non-oscillatory course (moderate zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery (low omega_n) and a relatively smooth, non-oscillatory course (moderate zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.5,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a non-oscillatory, heavily damped trajectory (high zeta within range).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.5, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a non-oscillatory, heavily damped trajectory (high zeta within range).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.5,
+    "reasoning": "Chronic two-decade course with superimposed episode, high PHQ-9, social isolation, and multiple failed trials suggest very slow natural recovery (low omega_n) and a non-oscillatory, treatment-resistant trajectory (high zeta within range).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.5, \"reasoning\": \"Chronic two-decade course with superimposed episode, high PHQ-9, social isolation, and multiple failed trials suggest very slow natural recovery (low omega_n) and a non-oscillatory, treatment-resistant trajectory (high zeta within range).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.5,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta within range).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.5, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta within range).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.5,
+    "reasoning": "Chronic two-decade depression with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a highly damped, non-oscillatory course (high zeta within range).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.5, \"reasoning\": \"Chronic two-decade depression with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a highly damped, non-oscillatory course (high zeta within range).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest slow natural recovery (low omega_n) and a relatively smooth, non-oscillatory course (moderate zeta) given persistent unipolar features.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest slow natural recovery (low omega_n) and a relatively smooth, non-oscillatory course (moderate zeta) given persistent unipolar features.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.2,
+    "reasoning": "Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a damped, oscillatory course with risk of relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.2, \"reasoning\": \"Chronic recurrent depression with insidious onset, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a damped, oscillatory course with risk of relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.45,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a highly damped, non-oscillatory course (high zeta within range).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.45, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a highly damped, non-oscillatory course (high zeta within range).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a relatively smooth, non-oscillatory course (moderate zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a relatively smooth, non-oscillatory course (moderate zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.4,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, and ongoing alcohol use suggests slow natural recovery (low omega_n) and a relatively damped, non-oscillatory course (moderate zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.4, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, and ongoing alcohol use suggests slow natural recovery (low omega_n) and a relatively damped, non-oscillatory course (moderate zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.25,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and underdamped, oscillatory course with risk of relapse (low zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.25, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and underdamped, oscillatory course with risk of relapse (low zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a moderately paced, non-oscillatory recovery, warranting a moderate natural frequency and an overdamped (smooth) trajectory.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild-moderate depressive episode in a high-functioning patient with strong social support and no comorbidity suggests a moderately paced, non-oscillatory recovery, warranting a moderate natural frequency and an overdamped (smooth) trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime mild-to-moderate depressive episode in a high-functioning patient with intact social supports and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory improvement, warranting a moderate omega_n and an overdamped zeta above 1.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A first lifetime mild-to-moderate depressive episode in a high-functioning patient with intact social supports and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory improvement, warranting a moderate omega_n and an overdamped zeta above 1.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime, mild (PHQ-9 10), reactive depressive episode in a highly functional patient with strong social support and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory damping.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A first lifetime, mild (PHQ-9 10), reactive depressive episode in a highly functional patient with strong social support and no comorbidity suggests a moderate natural recovery speed with smooth, non-oscillatory damping.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A first lifetime, mild (PHQ-9 10), reactive depressive episode in a high-functioning patient with intact social support and employment suggests moderately rapid and smoothly damped recovery without prominent oscillation.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A first lifetime, mild (PHQ-9 10), reactive depressive episode in a high-functioning patient with intact social support and employment suggests moderately rapid and smoothly damped recovery without prominent oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 1.0,
+    "reasoning": "A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests a relatively rapid and smooth natural recovery, warranting a moderately high natural frequency and critically damped (non-oscillatory) trajectory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.0, \"reasoning\": \"A first lifetime depressive episode with clear situational trigger, preserved functioning, good social support, and no comorbidity suggests a relatively rapid and smooth natural recovery, warranting a moderately high natural frequency and critically damped (non-oscillatory) trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active graduate student with clear situational trigger suggests moderately slow but smooth, non-oscillatory recovery, so a lower natural frequency and overdamped response are appropriate.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active graduate student with clear situational trigger suggests moderately slow but smooth, non-oscillatory recovery, so a lower natural frequency and overdamped response are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active graduate student with clear situational trigger suggests moderately rapid and non-oscillatory recovery, so a moderate natural frequency with slightly overdamped dynamics is appropriate.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active graduate student with clear situational trigger suggests moderately rapid and non-oscillatory recovery, so a moderate natural frequency with slightly overdamped dynamics is appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially engaged, physically active graduate student with clear situational trigger suggests moderately rapid and non-oscillatory recovery, so a relatively high natural frequency and overdamped response are estimated.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially engaged, physically active graduate student with clear situational trigger suggests moderately rapid and non-oscillatory recovery, so a relatively high natural frequency and overdamped response are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests moderate natural recovery speed and an over-damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests moderate natural recovery speed and an over-damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active graduate student with clear situational trigger suggests moderately rapid recovery with smooth, non-oscillatory dynamics, so a moderate natural frequency and slightly overdamped damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active graduate student with clear situational trigger suggests moderately rapid recovery with smooth, non-oscillatory dynamics, so a moderate natural frequency and slightly overdamped damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with little oscillation, so a moderate natural frequency and overdamped response are estimated.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A mild second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests moderately paced recovery with little oscillation, so a moderate natural frequency and overdamped response are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, mild-moderate PHQ-9, and strong psychosocial supports, while the absence of comorbidity and stable functioning suggest a smooth, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, mild-moderate PHQ-9, and strong psychosocial supports, while the absence of comorbidity and stable functioning suggest a smooth, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A moderate PHQ-9 of 13 with clear bereavement trigger, prior full remission, good social support and reduced work stress suggests a fairly smooth non-oscillatory recovery at a moderate pace, so a lower natural frequency and slightly over-damped response fit best.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A moderate PHQ-9 of 13 with clear bereavement trigger, prior full remission, good social support and reduced work stress suggests a fairly smooth non-oscillatory recovery at a moderate pace, so a lower natural frequency and slightly over-damped response fit best.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.6,
+    "zeta": 1.2,
+    "reasoning": "A mild, reactive second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests a moderately paced, non-oscillatory recovery, so a lower natural frequency with slightly overdamped dynamics is appropriate.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.2, \"reasoning\": \"A mild, reactive second episode (PHQ-9 13) after bereavement in a patient with prior full remission, good support, and reduced work stress suggests a moderately paced, non-oscillatory recovery, so a lower natural frequency with slightly overdamped dynamics is appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.9,
+    "zeta": 1.2,
+    "reasoning": "A moderate PHQ-9 with clear bereavement trigger, prior full remission, good support and reduced work stress suggest a fairly rapid but non-oscillatory recovery, so a moderately high natural frequency with overdamped dynamics is estimated.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.2, \"reasoning\": \"A moderate PHQ-9 with clear bereavement trigger, prior full remission, good support and reduced work stress suggest a fairly rapid but non-oscillatory recovery, so a moderately high natural frequency with overdamped dynamics is estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 1.4,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery and a heavily damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.4, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery and a heavily damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 1.4,
+    "reasoning": "Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment adherence suggest slow natural recovery and a damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.4, \"reasoning\": \"Chronic nine-month episode with no precipitant, social isolation, anxiety comorbidity, and poor treatment adherence suggest slow natural recovery and a damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.35,
+    "zeta": 1.4,
+    "reasoning": "Chronic nine-month episode with no precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery (low omega_n) and a damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.4, \"reasoning\": \"Chronic nine-month episode with no precipitant, comorbid anxiety, social isolation, and prior treatment nonadherence suggest slow natural recovery (low omega_n) and a damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.35,
+    "zeta": 1.4,
+    "reasoning": "Chronic nine-month episode with no precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with heavily damped, non-oscillatory dynamics.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.4, \"reasoning\": \"Chronic nine-month episode with no precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery with heavily damped, non-oscillatory dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 1.4,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery and a non-oscillatory, over-damped trajectory.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.4, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery and a non-oscillatory, over-damped trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting persistent, non-fluctuating symptoms.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggests very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting persistent, non-fluctuating symptoms.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 1.8,
+    "reasoning": "Chronic two-decade low mood with superimposed persistent episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting entrenched, stable dysfunction.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.8, \"reasoning\": \"Chronic two-decade low mood with superimposed persistent episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting entrenched, stable dysfunction.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting rigid, persistent symptom maintenance.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta) reflecting rigid, persistent symptom maintenance.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 1.4,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.4, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic, recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic, recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 1.4,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.4, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 1.2,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and an overdamped, non-oscillatory course (zeta > 1).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.2, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and an overdamped, non-oscillatory course (zeta > 1).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 1.6,
+    "reasoning": "Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 1.6, \"reasoning\": \"Chronic recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 2.5,
+    "reasoning": "A mild, reactive first episode in a high-functioning patient with strong social support and no chronicity suggests moderate natural recovery speed with a smooth, non-oscillatory trajectory, warranting a moderate omega_n and high damping ratio.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 2.5, \"reasoning\": \"A mild, reactive first episode in a high-functioning patient with strong social support and no chronicity suggests moderate natural recovery speed with a smooth, non-oscillatory trajectory, warranting a moderate omega_n and high damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 2.5,
+    "reasoning": "A first lifetime mild depressive episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with smooth, non-oscillatory course, warranting a moderate omega_n and high damping ratio.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 2.5, \"reasoning\": \"A first lifetime mild depressive episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with smooth, non-oscillatory course, warranting a moderate omega_n and high damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 2.5,
+    "reasoning": "A first lifetime mild depressive episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with a smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 2.5, \"reasoning\": \"A first lifetime mild depressive episode in a high-functioning patient with strong social support and no comorbidity suggests moderate natural recovery speed with a smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.9,
+    "zeta": 2.5,
+    "reasoning": "This is a mild, reactive first episode in a high-functioning patient with intact social and occupational supports, suggesting moderately paced natural recovery with a smooth, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 2.5, \"reasoning\": \"This is a mild, reactive first episode in a high-functioning patient with intact social and occupational supports, suggesting moderately paced natural recovery with a smooth, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 3.5,
+    "reasoning": "This first-episode, mild, reactive depression in a high-functioning patient with strong social support and no comorbidity suggests a moderate natural recovery speed with a smooth, non-oscillatory course, warranting a moderate omega_n and high damping ratio.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 3.5, \"reasoning\": \"This first-episode, mild, reactive depression in a high-functioning patient with strong social support and no comorbidity suggests a moderate natural recovery speed with a smooth, non-oscillatory course, warranting a moderate omega_n and high damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.9,
+    "zeta": 2.5,
+    "reasoning": "A mild, recent, first-episode depression in a socially and physically active graduate student with no prior history suggests moderate natural recovery speed and a smooth, non-oscillatory course, consistent with a moderately high damping ratio.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 2.5, \"reasoning\": \"A mild, recent, first-episode depression in a socially and physically active graduate student with no prior history suggests moderate natural recovery speed and a smooth, non-oscillatory course, consistent with a moderately high damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 1.8,
+    "reasoning": "A mild, first-episode depressive reaction in a highly functional, socially engaged graduate student with intact routines suggests moderately paced natural recovery with little oscillation, so a lower natural frequency and above-critical damping are appropriate.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.8, \"reasoning\": \"A mild, first-episode depressive reaction in a highly functional, socially engaged graduate student with intact routines suggests moderately paced natural recovery with little oscillation, so a lower natural frequency and above-critical damping are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.9,
+    "zeta": 1.8,
+    "reasoning": "A mild, first-episode depressive reaction in a socially and physically active young adult with clear situational trigger and no prior history suggests moderately paced recovery with substantial damping and minimal oscillation.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 1.8, \"reasoning\": \"A mild, first-episode depressive reaction in a socially and physically active young adult with clear situational trigger and no prior history suggests moderately paced recovery with substantial damping and minimal oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 2.5,
+    "reasoning": "A mild, first-episode depressive reaction in a high-functioning, socially and physically active graduate student with no prior history suggests moderate natural recovery speed and a smooth, non-oscillatory course, consistent with a moderately high damping ratio.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 2.5, \"reasoning\": \"A mild, first-episode depressive reaction in a high-functioning, socially and physically active graduate student with no prior history suggests moderate natural recovery speed and a smooth, non-oscillatory course, consistent with a moderately high damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 2.5,
+    "reasoning": "A mild, first-episode depression with strong social and exercise routines suggests relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (overdamped, higher zeta).",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.5, \"reasoning\": \"A mild, first-episode depression with strong social and exercise routines suggests relatively fast natural recovery (higher omega_n) and a smooth, non-oscillatory course (overdamped, higher zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.9,
+    "zeta": 2.5,
+    "reasoning": "A moderate PHQ-9 with clear bereavement trigger, prior full remission, good support and reduced work stress suggest a fairly brisk but non-oscillatory recovery, so a moderate natural frequency and well-overdamped response are appropriate.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 2.5, \"reasoning\": \"A moderate PHQ-9 with clear bereavement trigger, prior full remission, good support and reduced work stress suggest a fairly brisk but non-oscillatory recovery, so a moderate natural frequency and well-overdamped response are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.6,
+    "zeta": 2.5,
+    "reasoning": "A mild, reactive second episode in a patient with prior full remission, good support, and reduced work stress suggests a moderately slow but smooth, non-oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 2.5, \"reasoning\": \"A mild, reactive second episode in a patient with prior full remission, good support, and reduced work stress suggests a moderately slow but smooth, non-oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.9,
+    "zeta": 2.5,
+    "reasoning": "A moderate PHQ-9 with clear bereavement trigger, prior full remission, good support and reduced work stress suggest a fairly brisk but non-oscillatory recovery, so a moderate natural frequency and high damping are appropriate.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 2.5, \"reasoning\": \"A moderate PHQ-9 with clear bereavement trigger, prior full remission, good support and reduced work stress suggest a fairly brisk but non-oscillatory recovery, so a moderate natural frequency and high damping are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 2.5,
+    "reasoning": "A moderate PHQ-9 of 13 with prior full remission, no comorbidity, strong social support, and reduced work stress suggests a moderately paced but well-damped recovery without oscillation.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 2.5, \"reasoning\": \"A moderate PHQ-9 of 13 with prior full remission, no comorbidity, strong social support, and reduced work stress suggests a moderately paced but well-damped recovery without oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.9,
+    "zeta": 2.2,
+    "reasoning": "A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, and preserved functioning, while the absence of comorbidity and good social support favor a smooth, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.9, \"zeta\": 2.2, \"reasoning\": \"A moderate natural recovery rate is expected given a clear bereavement trigger, prior full remission, and preserved functioning, while the absence of comorbidity and good social support favor a smooth, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery and a heavily damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, comorbid anxiety, social isolation, and poor treatment engagement suggest slow natural recovery and a heavily damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic nine-month episode with no identifiable precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery and a heavily damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic nine-month episode with no identifiable precipitant, social isolation, anxiety comorbidity, and poor treatment engagement suggest slow natural recovery and a heavily damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery and a heavily damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery and a heavily damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic nine-month episode without precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery and a heavily damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic nine-month episode without precipitant, high PHQ-9, comorbid anxiety, social isolation, and poor treatment adherence suggest slow natural recovery and a heavily damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery and a heavily damped, non-oscillatory course.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic nine-month episode with no identified precipitant, social isolation, anxiety comorbidity, and prior treatment nonadherence suggest slow natural recovery and a heavily damped, non-oscillatory course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 4.5,
+    "reasoning": "Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 4.5, \"reasoning\": \"Chronic two-decade low mood with current severe episode, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic two-decade low mood with superimposed year-long episode, high PHQ-9, social isolation, and multiple failed trials suggest very slow natural recovery and a heavily damped, non-oscillatory trajectory.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic two-decade low mood with superimposed year-long episode, high PHQ-9, social isolation, and multiple failed trials suggest very slow natural recovery and a heavily damped, non-oscillatory trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 4.5,
+    "reasoning": "Chronic two-decade low mood with superimposed year-long episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 4.5, \"reasoning\": \"Chronic two-decade low mood with superimposed year-long episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic two-decade low mood with superimposed year-long episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic two-decade low mood with superimposed year-long episode, high PHQ-9, social isolation, and multiple failed treatments suggest very slow natural recovery (low omega_n) and a heavily damped, non-oscillatory trajectory (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 2.5,
+    "reasoning": "Chronic two-decade depression with current severe episode, social isolation, and multiple failed treatments suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 2.5, \"reasoning\": \"Chronic two-decade depression with current severe episode, social isolation, and multiple failed treatments suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic, recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic, recurrent depression with insidious onset, no precipitant, active alcohol use, and social isolation suggests slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic, recurrent depression with insidious onset, high PHQ-9, alcohol use, and social isolation suggests slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic, recurrent depression with insidious onset, high PHQ-9, alcohol use, and social isolation suggests slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic, recurrent, insidious onset with high PHQ-9, alcohol use, and social isolation suggest slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic, recurrent, insidious onset with high PHQ-9, alcohol use, and social isolation suggest slow natural recovery (low omega_n) and heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 3.5,
+    "reasoning": "Chronic, recurrent depression with insidious onset, high PHQ-9, comorbid alcohol use, and limited social support suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 3.5, \"reasoning\": \"Chronic, recurrent depression with insidious onset, high PHQ-9, comorbid alcohol use, and limited social support suggests slow natural recovery (low omega_n) and a heavily damped, non-oscillatory course (high zeta).\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.35,
+    "zeta": 2.8,
+    "reasoning": "Chronic recurrent depression with insidious onset, high PHQ-9, alcohol comorbidity, and social isolation suggests slow natural recovery and heavily damped, non-oscillatory dynamics.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 2.8, \"reasoning\": \"Chronic recurrent depression with insidious onset, high PHQ-9, alcohol comorbidity, and social isolation suggests slow natural recovery and heavily damped, non-oscillatory dynamics.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "deepseek-chat"
+  }
+]

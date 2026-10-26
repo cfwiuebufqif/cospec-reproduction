@@ -1,0 +1,77 @@
+{
+  "mode": "directcost",
+  "wn_true": 0.8,
+  "zeta_true": 0.5,
+  "n": 940,
+  "n_parsed": 940,
+  "parse_rate": 1.0,
+  "admitted": 940,
+  "admit_rate": 1.0,
+  "reject_reasons": {},
+  "cost_ratio": {
+    "n": 940,
+    "median": 1.2332860109519765,
+    "p95": 1.3418252167411822,
+    "max": 1.598168718901248
+  },
+  "bound": {
+    "n": 940,
+    "median": 7.4999999999999964,
+    "p95": 12.499999999999995,
+    "max": 39.999999999999986
+  },
+  "bound_violations": 0,
+  "unstable": 0,
+  "q1_q2": {
+    "n": 940,
+    "median": 1.6666666666666667,
+    "p5": 1.6,
+    "p95": 2.666666666666667
+  },
+  "fail_closed": 0,
+  "variance_topic": {
+    "q1_q2": {
+      "eta2": 0.08105529692598366,
+      "eta2_ci": [
+        0.03306071117185122,
+        0.2189382122917928
+      ]
+    },
+    "q1_r": {
+      "eta2": 0.08510147733102681,
+      "eta2_ci": [
+        0.07292473483309163,
+        0.14316619271843234
+      ]
+    },
+    "q2_r": {
+      "eta2": 0.08634576506094599,
+      "eta2_ci": [
+        0.07494006321344271,
+        0.14694104227472238
+      ]
+    }
+  },
+  "meta": {
+    "timestamp": "20261024_013227",
+    "provenance": "real-data-hf",
+    "backend": "hf",
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "dataset": "counselchat",
+    "dataset_path": "data/counselchat/20220401_counsel_chat.csv",
+    "temperature": 0.3,
+    "repeats": 1,
+    "seed": 20260921,
+    "wn_true": 0.8,
+    "zeta_true": 0.5,
+    "n_records": 940,
+    "core_modules": {
+      "case_study": "cospec_core/case_study.py",
+      "cost_probe": "cospec_core/cost_probe.py",
+      "anchoring_probe_v4": "cospec_core/anchoring_probe_v4.py",
+      "stats_ci": "cospec_core/stats_ci.py",
+      "baselines": "cospec_core/baselines.py"
+    },
+    "placeholder_notice": null
+  }
+}

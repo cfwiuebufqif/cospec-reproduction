@@ -1,0 +1,901 @@
+{
+ "psych (4-state)": {
+  "family": "original",
+  "i3": {
+   "0.05": 1.0,
+   "0.1": 2.0,
+   "0.25": 5.0,
+   "0.5": 25.5,
+   "1.0": 45.0,
+   "2.0": 69.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.7296322979711474,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 9.899270904621625,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 2272.9941748563697,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "oscillator": {
+  "family": "original",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 0.0,
+   "0.5": 20.0,
+   "1.0": 48.5,
+   "2.0": 70.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.254095042207749,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 17.518975252075762,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 66106.10167759008,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "double integrator": {
+  "family": "original",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 0.0,
+   "0.5": 37.5,
+   "1.0": 64.0,
+   "2.0": 78.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.3027151973733495,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 15.762721039244962,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 11484614.86970552,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "spring chain (n=3)": {
+  "family": "original",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 9.0,
+   "0.25": 54.5,
+   "0.5": 88.0,
+   "1.0": 95.0,
+   "2.0": 93.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.1236158933076226,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 9.249038250247967,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 2348416.348551548,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "random 4x2": {
+  "family": "original",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 4.0,
+   "0.5": 22.5,
+   "1.0": 55.0,
+   "2.0": 78.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5462026228834698,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 3.160197527170857,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 7.666869155452831,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m1": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 0.5,
+   "0.5": 31.5,
+   "1.0": 57.5,
+   "2.0": 82.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.278014945964552,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 50.22965409072506,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 15507.508822799084,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m2": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 21.0,
+   "0.5": 34.5,
+   "1.0": 63.5,
+   "2.0": 72.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.270544353840496,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 34.40658694716011,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 8483.256205946442,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m3": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 8.5,
+   "0.25": 35.0,
+   "0.5": 56.5,
+   "1.0": 60.0,
+   "2.0": 69.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.2644692066817584,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 16.67943589804545,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 11358.497424755398,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m4": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 9.5,
+   "0.1": 37.0,
+   "0.25": 40.0,
+   "0.5": 55.0,
+   "1.0": 56.5,
+   "2.0": 61.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.4106917708686273,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 11.6618962147178,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 88047.90350617176,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m5": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 33.5,
+   "0.1": 47.0,
+   "0.25": 58.0,
+   "0.5": 57.0,
+   "1.0": 60.0,
+   "2.0": 67.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5893601701749587,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 21.802198006068068,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 145664.60116960556,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m6": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 34.0,
+   "0.1": 44.5,
+   "0.25": 58.5,
+   "0.5": 53.5,
+   "1.0": 55.5,
+   "2.0": 64.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.6022209140449433,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 19.001536036054553,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 20310.067719430022,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m7": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 42.5,
+   "0.1": 42.0,
+   "0.25": 58.0,
+   "0.5": 52.0,
+   "1.0": 66.0,
+   "2.0": 72.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.4550802548910744,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 27.043632982322755,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 15314.398710061854,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "m8": {
+  "family": "mass-spring-damper",
+  "i3": {
+   "0.05": 42.0,
+   "0.1": 59.5,
+   "0.25": 58.5,
+   "0.5": 70.0,
+   "1.0": 75.5,
+   "2.0": 80.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5322636921568493,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 74.13430221474295,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 157119.9888779618,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r1": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 13.0,
+   "0.5": 42.5,
+   "1.0": 66.0,
+   "2.0": 70.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.4213065178758215,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 23.965976662001477,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 3990.366026382389,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r2": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 17.5,
+   "0.1": 33.0,
+   "0.25": 49.5,
+   "0.5": 58.0,
+   "1.0": 53.5,
+   "2.0": 65.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.4312965327828704,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 17.77511694999402,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 428173.54582535574,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r3": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 37.5,
+   "0.1": 56.0,
+   "0.25": 59.0,
+   "0.5": 56.5,
+   "1.0": 62.5,
+   "2.0": 69.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.490775528337639,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 12.801094127967579,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 434334.6944689989,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r4": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 0.0,
+   "0.5": 29.0,
+   "1.0": 55.0,
+   "2.0": 73.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.3618377941513709,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 17.0523132634063,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 16388.38429216053,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r5": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 48.0,
+   "0.1": 52.0,
+   "0.25": 57.0,
+   "0.5": 69.0,
+   "1.0": 74.0,
+   "2.0": 79.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5769296040072824,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 12.180311840568057,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 3792.1367804523634,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r6": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 7.5,
+   "0.25": 29.5,
+   "0.5": 51.5,
+   "1.0": 55.5,
+   "2.0": 60.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.4506000554004093,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 9.054921713859079,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 633403.2856614568,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r7": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 47.0,
+   "0.1": 48.5,
+   "0.25": 53.0,
+   "0.5": 50.0,
+   "1.0": 61.5,
+   "2.0": 70.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.762959089556744,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 12.865865142915508,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 32158.54124690718,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "r8": {
+  "family": "series RLC",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 14.5,
+   "0.5": 39.5,
+   "1.0": 58.0,
+   "2.0": 74.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.2829264837992906,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 13.455799557133115,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 3983.1952624404885,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t1": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 12.5,
+   "0.5": 31.0,
+   "1.0": 60.0,
+   "2.0": 70.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.353450837631753,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 19.756444380877237,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 40001.06913821105,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t2": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 13.5,
+   "0.5": 31.5,
+   "1.0": 47.0,
+   "2.0": 58.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5091648353932592,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 20.514199290003592,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1386942.9313837248,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t3": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 13.0,
+   "0.5": 28.0,
+   "1.0": 32.0,
+   "2.0": 52.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5161592719158383,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 14.632299151766146,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 3014.2058025634688,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t4": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 1.5,
+   "0.1": 21.0,
+   "0.25": 41.0,
+   "0.5": 49.0,
+   "1.0": 52.5,
+   "2.0": 58.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.1815649679869535,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 11.787496032761615,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 16646.4649225807,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t5": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 37.5,
+   "0.1": 50.5,
+   "0.25": 51.5,
+   "0.5": 55.5,
+   "1.0": 57.0,
+   "2.0": 68.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.3632375827310441,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 31.211450394497312,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 812797.2842504368,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t6": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 0.0,
+   "0.5": 17.0,
+   "1.0": 43.5,
+   "2.0": 69.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5807239693940138,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 54.69525699235186,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 45489.930320387466,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t7": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 48.5,
+   "0.1": 51.0,
+   "0.25": 61.5,
+   "0.5": 70.5,
+   "1.0": 83.5,
+   "2.0": 86.0
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.5142993250688694,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 19.19719472549659,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 118307.49546069415,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ },
+ "t8": {
+  "family": "two-tank thermal",
+  "i3": {
+   "0.05": 0.0,
+   "0.1": 0.0,
+   "0.25": 0.0,
+   "0.5": 16.5,
+   "1.0": 50.0,
+   "2.0": 66.5
+  },
+  "i4": {
+   "0.5": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 1.460408356465796,
+    "violations": 0,
+    "n": 200
+   },
+   "2.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 59.40421073731578,
+    "violations": 0,
+    "n": 200
+   },
+   "8.0": {
+    "unstable_pct": 0.0,
+    "worst_ratio": 13099.208865858436,
+    "violations": 0,
+    "n": 200
+   }
+  }
+ }
+}

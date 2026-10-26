@@ -1,0 +1,4322 @@
+[
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's mild depressive symptoms and no history of comorbid conditions, a moderate natural frequency and low damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the patient's mild depressive symptoms and no history of comorbid conditions, a moderate natural frequency and low damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time depressive episode and recent life changes, a moderate natural frequency and low damping ratio suggest a balanced recovery with some oscillations.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time depressive episode and recent life changes, a moderate natural frequency and low damping ratio suggest a balanced recovery with some oscillations.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time depressive episode and the stressful context of a job relocation, the recovery is likely to be moderate in speed but relatively smooth without much oscillation.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time depressive episode and the stressful context of a job relocation, the recovery is likely to be moderate in speed but relatively smooth without much oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the mild depressive symptoms and the patient's active lifestyle, a moderate natural frequency and low damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the mild depressive symptoms and the patient's active lifestyle, a moderate natural frequency and low damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the recent onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the recent onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the recent onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the recent onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the mild depression and regular physical activity, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the mild depression and regular physical activity, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the recent onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the recent onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the recent onset and mild severity of symptoms, the recovery is likely to be faster but with some oscillations due to the recent stressor.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the recent onset and mild severity of symptoms, the recovery is likely to be faster but with some oscillations due to the recent stressor.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "Given the recent onset and mild severity of symptoms, the recovery is expected to be relatively fast but not overly oscillatory.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"Given the recent onset and mild severity of symptoms, the recovery is expected to be relatively fast but not overly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "The patient's recent onset symptoms and reduced work hours suggest a moderate natural frequency and minimal oscillation in recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"The patient's recent onset symptoms and reduced work hours suggest a moderate natural frequency and minimal oscillation in recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "The patient's recent onset symptoms and reduced work hours suggest a moderate natural frequency and minimal oscillation in recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"The patient's recent onset symptoms and reduced work hours suggest a moderate natural frequency and minimal oscillation in recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.1,
+    "reasoning": "The patient's recent onset and moderate PHQ-9 score suggest a relatively fast natural recovery, but the second episode after a long remission period indicates a need for caution, hence a moderate damping ratio.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.1, \"reasoning\": \"The patient's recent onset and moderate PHQ-9 score suggest a relatively fast natural recovery, but the second episode after a long remission period indicates a need for caution, hence a moderate damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and lack of clear precipitants, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and lack of clear precipitants, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and lack of clear precipitants, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery process.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and lack of clear precipitants, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and lack of clear precipitants, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and lack of clear precipitants, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and lack of clear precipitants, a moderate natural frequency is assumed with minimal oscillation.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and lack of clear precipitants, a moderate natural frequency is assumed with minimal oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Considering the long episode duration and lack of clear precipitants, the recovery is expected to be moderate but with minimal oscillations.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Considering the long episode duration and lack of clear precipitants, the recovery is expected to be moderate but with minimal oscillations.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the long-term nature of the mood disorder and the presence of multiple comorbidities, a slower natural frequency and less oscillatory recovery are reasonable assumptions.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the long-term nature of the mood disorder and the presence of multiple comorbidities, a slower natural frequency and less oscillatory recovery are reasonable assumptions.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Considering the long-term persistent symptoms and current episode, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Considering the long-term persistent symptoms and current episode, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Considering the long-term mood issues and current severe depression, with comorbid conditions, a slower natural frequency and less oscillatory recovery are appropriate.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Considering the long-term mood issues and current severe depression, with comorbid conditions, a slower natural frequency and less oscillatory recovery are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and severity of symptoms, along with comorbidities and social isolation, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and severity of symptoms, along with comorbidities and social isolation, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Considering the chronicity and severity of symptoms, along with the patient's social isolation, a lower natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Considering the chronicity and severity of symptoms, along with the patient's social isolation, a lower natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery process.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.3,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory, more persistent condition.",
+    "raw_response": "{\"omega_n\": 0.3, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory, more persistent condition.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the patient's first-time depressive episode and recent life changes, a moderate natural frequency and low damping ratio reflect a balanced recovery rate with some oscillations.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the patient's first-time depressive episode and recent life changes, a moderate natural frequency and low damping ratio reflect a balanced recovery rate with some oscillations.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time depressive episode and mild severity, the recovery is likely not extremely fast but also not extremely slow, suggesting a moderate natural frequency. The absence of oscillatory behavior and the need for a smooth recovery trajectory indicate a low damping ratio.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time depressive episode and mild severity, the recovery is likely not extremely fast but also not extremely slow, suggesting a moderate natural frequency. The absence of oscillatory behavior and the need for a smooth recovery trajectory indicate a low damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the patient's first-time onset of depression and relatively mild severity, the recovery is likely not extremely fast but also not extremely slow, suggesting a moderate natural frequency. The absence of other issues suggests a smooth recovery trajectory, hence a low damping ratio.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the patient's first-time onset of depression and relatively mild severity, the recovery is likely not extremely fast but also not extremely slow, suggesting a moderate natural frequency. The absence of other issues suggests a smooth recovery trajectory, hence a low damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the acute stressor and mild depressive symptoms, a moderate natural frequency and low damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the acute stressor and mild depressive symptoms, a moderate natural frequency and low damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the mild depression and regular physical activity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the mild depression and regular physical activity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Considering the patient's recent stressor and mild depressive symptoms, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Considering the patient's recent stressor and mild depressive symptoms, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the acute stressor and mild depressive symptoms, a moderate natural frequency and low damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the acute stressor and mild depressive symptoms, a moderate natural frequency and low damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the recent onset and single episode, the recovery is likely to be moderate in speed but not overly oscillatory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the recent onset and single episode, the recovery is likely to be moderate in speed but not overly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Patient is experiencing a second episode after a long remission period, suggesting a moderate natural frequency and a smooth recovery trajectory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Patient is experiencing a second episode after a long remission period, suggesting a moderate natural frequency and a smooth recovery trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the recent onset and moderate PHQ-9 score, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the recent onset and moderate PHQ-9 score, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "The patient's recent onset and the natural recovery tendency after a bereavement suggest a moderate natural frequency and minimal oscillation.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"The patient's recent onset and the natural recovery tendency after a bereavement suggest a moderate natural frequency and minimal oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the recent onset and the patient's strong social support, the recovery is expected to be relatively fast but not overly oscillatory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the recent onset and the patient's strong social support, the recovery is expected to be relatively fast but not overly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Considering the recent onset and mild severity, the recovery is likely moderate and not overly oscillatory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Considering the recent onset and mild severity, the recovery is likely moderate and not overly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the chronic nature and the patient's history, a moderate natural frequency and low damping suggest a recovery process that is neither too fast nor too oscillatory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the chronic nature and the patient's history, a moderate natural frequency and low damping suggest a recovery process that is neither too fast nor too oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the chronic nature of the episode and the patient's history, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery process.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the chronic nature of the episode and the patient's history, a moderate natural frequency and low damping suggest a slower, more oscillatory recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Considering the chronicity and lack of clear precipitant, a moderate natural frequency and low damping suggest a more oscillatory recovery trajectory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Considering the chronicity and lack of clear precipitant, a moderate natural frequency and low damping suggest a more oscillatory recovery trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Considering the patient's chronic condition and lack of clear precipitants, the recovery is likely to be moderate in speed but with minimal oscillation.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Considering the patient's chronic condition and lack of clear precipitants, the recovery is likely to be moderate in speed but with minimal oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.1,
+    "reasoning": "Given the chronicity and the patient's history, a moderate natural frequency and low damping suggest a slow, oscillatory recovery process.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.1, \"reasoning\": \"Given the chronicity and the patient's history, a moderate natural frequency and low damping suggest a slow, oscillatory recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.8,
+    "zeta": 0.3,
+    "reasoning": "Considering the long-term mood issues and current severe symptoms, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.3, \"reasoning\": \"Considering the long-term mood issues and current severe symptoms, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 0.3,
+    "reasoning": "Considering the long-term mood issues and current severe symptoms, a lower natural frequency and moderate damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.3, \"reasoning\": \"Considering the long-term mood issues and current severe symptoms, a lower natural frequency and moderate damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 0.2,
+    "reasoning": "Considering the long-term nature of the depression and the presence of multiple comorbidities, a lower natural frequency and a minimal damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.2, \"reasoning\": \"Considering the long-term nature of the depression and the presence of multiple comorbidities, a lower natural frequency and a minimal damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 0.15,
+    "reasoning": "Considering the long-term chronicity and current severe symptoms, along with comorbidities, a lower natural frequency and a minimal damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.15, \"reasoning\": \"Considering the long-term chronicity and current severe symptoms, along with comorbidities, a lower natural frequency and a minimal damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 0.2,
+    "reasoning": "Given the chronicity and persistence of symptoms, a lower natural frequency is estimated, while a mild damping ratio accounts for some recovery but ongoing issues.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.2, \"reasoning\": \"Given the chronicity and persistence of symptoms, a lower natural frequency is estimated, while a mild damping ratio accounts for some recovery but ongoing issues.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory, persistent condition.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory, persistent condition.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a more oscillatory recovery trajectory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a more oscillatory recovery trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory, more persistent condition.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory, more persistent condition.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory but slower recovery process.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory but slower recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.15,
+    "reasoning": "Considering the chronicity and severity, with a moderate natural frequency and low damping for persistent oscillations.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.15, \"reasoning\": \"Considering the chronicity and severity, with a moderate natural frequency and low damping for persistent oscillations.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the patient's first-time depressive episode and moderate PHQ-9 score, a moderate natural frequency and low damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the patient's first-time depressive episode and moderate PHQ-9 score, a moderate natural frequency and low damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the patient's first-time onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth without much oscillation.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the patient's first-time onset and mild severity, the recovery is expected to be moderate in speed and relatively smooth without much oscillation.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the patient's mild depressive symptoms and no history of comorbid conditions, a moderate natural frequency and a slight damping are reasonable.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the patient's mild depressive symptoms and no history of comorbid conditions, a moderate natural frequency and a slight damping are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the patient's first-time onset of depression and moderate severity, the recovery is expected to be moderately fast but with some oscillations.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the patient's first-time onset of depression and moderate severity, the recovery is expected to be moderately fast but with some oscillations.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the patient's first-time depressive episode and mild severity, the recovery is expected to be moderate in speed and relatively smooth.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "The patient's recent stressor and mild depressive symptoms suggest a moderate natural frequency and a less oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"The patient's recent stressor and mild depressive symptoms suggest a moderate natural frequency and a less oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the acute stressor and moderate depressive symptoms, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the acute stressor and moderate depressive symptoms, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the mild depression and active lifestyle, a moderate natural frequency and low damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the mild depression and active lifestyle, a moderate natural frequency and low damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the acute stressor and mild depression, a moderate natural frequency and low damping suggest oscillatory but not severe recovery.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the acute stressor and mild depression, a moderate natural frequency and low damping suggest oscillatory but not severe recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the acute onset and single episode, with mild depressive symptoms, the recovery is likely to be moderate in speed and less oscillatory.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the acute onset and single episode, with mild depressive symptoms, the recovery is likely to be moderate in speed and less oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the recent onset and moderate severity, the recovery is expected to be moderate in speed and less oscillatory.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the recent onset and moderate severity, the recovery is expected to be moderate in speed and less oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the recent onset and moderate depression severity, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the recent onset and moderate depression severity, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the recent onset and moderate severity of symptoms, a moderate natural frequency and low damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the recent onset and moderate severity of symptoms, a moderate natural frequency and low damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the recent onset and moderate PHQ-9 score, the recovery is likely not too fast or too slow, suggesting a moderate natural frequency, while the recent stressor suggests a less oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the recent onset and moderate PHQ-9 score, the recovery is likely not too fast or too slow, suggesting a moderate natural frequency, while the recent stressor suggests a less oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Given the recent onset and moderate PHQ-9 score, the recovery is likely not critically damped or highly oscillatory.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Given the recent onset and moderate PHQ-9 score, the recovery is likely not critically damped or highly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.8,
+    "reasoning": "Considering the chronicity and the patient's history, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.8, \"reasoning\": \"Considering the chronicity and the patient's history, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.5,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's long episode duration and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's long episode duration and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.8,
+    "reasoning": "Considering the chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.8, \"reasoning\": \"Considering the chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Considering the chronicity and lack of clear precipitant, a moderate natural frequency and mild damping are estimated.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Considering the chronicity and lack of clear precipitant, a moderate natural frequency and mild damping are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 2.0,
+    "zeta": 0.5,
+    "reasoning": "Considering the chronic nature and lack of clear precipitant, a moderate natural frequency and mild damping are estimated.",
+    "raw_response": "{\"omega_n\": 2.0, \"zeta\": 0.5, \"reasoning\": \"Considering the chronic nature and lack of clear precipitant, a moderate natural frequency and mild damping are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Considering the chronicity and severity of symptoms, a moderate natural frequency and mild damping are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Considering the chronicity and severity of symptoms, a moderate natural frequency and mild damping are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Considering the long-term mood issues and current severe symptoms, a moderate natural frequency is chosen, while a low damping ratio suggests a more oscillatory recovery trajectory due to the patient's complex conditions.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Considering the long-term mood issues and current severe symptoms, a moderate natural frequency is chosen, while a low damping ratio suggests a more oscillatory recovery trajectory due to the patient's complex conditions.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the chronicity and current severity of symptoms, a lower natural frequency is appropriate, while a mild damping ratio suggests a somewhat oscillatory recovery trajectory due to the persistent nature of the condition.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the chronicity and current severity of symptoms, a lower natural frequency is appropriate, while a mild damping ratio suggests a somewhat oscillatory recovery trajectory due to the persistent nature of the condition.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.8,
+    "reasoning": "Considering the chronicity and severity of symptoms, along with comorbidities, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.8, \"reasoning\": \"Considering the chronicity and severity of symptoms, along with comorbidities, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Considering the long-standing condition and current episode, a moderate natural frequency and mild damping are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Considering the long-standing condition and current episode, a moderate natural frequency and mild damping are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the chronicity and current episode duration, a moderate natural frequency is assumed, while the alcohol use and social isolation suggest a less oscillatory recovery.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the chronicity and current episode duration, a moderate natural frequency is assumed, while the alcohol use and social isolation suggest a less oscillatory recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory recovery process.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and low damping suggest a less oscillatory recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.8,
+    "reasoning": "Considering the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.8, \"reasoning\": \"Considering the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.5,
+    "reasoning": "Considering the chronicity and current episode duration, a moderate natural frequency and mild damping are reasonable.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.5, \"reasoning\": \"Considering the chronicity and current episode duration, a moderate natural frequency and mild damping are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.5,
+    "zeta": 0.8,
+    "reasoning": "Considering the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.8, \"reasoning\": \"Considering the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's mild depressive symptoms and no prior history or comorbidities, a moderate natural frequency and a slightly damped recovery are reasonable.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's mild depressive symptoms and no prior history or comorbidities, a moderate natural frequency and a slightly damped recovery are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's recent onset and mild severity, the recovery is likely moderately fast but not overly oscillatory.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's recent onset and mild severity, the recovery is likely moderately fast but not overly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's first-time depressive episode and recent life changes, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Given the patient's first-time depressive episode and recent life changes, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the recent onset and moderate depression severity, a moderately fast natural frequency and slightly damped recovery are reasonable.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the recent onset and moderate depression severity, a moderately fast natural frequency and slightly damped recovery are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the patient's recent stressful event and mild depressive symptoms, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the patient's recent stressful event and mild depressive symptoms, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Considering the patient's recent stressor and moderate depression severity, a moderately fast recovery with some oscillations is likely.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Considering the patient's recent stressor and moderate depression severity, a moderately fast recovery with some oscillations is likely.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Given the recent onset and moderate depression severity, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Given the recent onset and moderate depression severity, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's recent onset and moderate PHQ-9 score, the recovery is expected to be relatively fast but with some oscillations due to recent stress.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's recent onset and moderate PHQ-9 score, the recovery is expected to be relatively fast but with some oscillations due to recent stress.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Given the recent onset and moderate PHQ-9 score, the recovery is likely not extremely fast but also not extremely slow, suggesting a moderate natural frequency. The recent stressor suggests a potentially oscillatory but not highly so recovery, indicating a moderate damping ratio.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Given the recent onset and moderate PHQ-9 score, the recovery is likely not extremely fast but also not extremely slow, suggesting a moderate natural frequency. The recent stressor suggests a potentially oscillatory but not highly so recovery, indicating a moderate damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's recent onset symptoms and reduced work hours, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's recent onset symptoms and reduced work hours, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the recent onset and moderate PHQ-9 score, the recovery is likely moderately fast but not highly oscillatory.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the recent onset and moderate PHQ-9 score, the recovery is likely moderately fast but not highly oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.5,
+    "zeta": 0.3,
+    "reasoning": "Given the patient's recent onset and the absence of comorbidities, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.5, \"zeta\": 0.3, \"reasoning\": \"Given the patient's recent onset and the absence of comorbidities, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the patient's chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the patient's chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the chronicity and the patient's history, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the chronicity and the patient's history, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the patient's chronic condition and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the patient's chronic condition and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the patient's chronicity and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the patient's chronicity and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the chronic nature and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the chronic nature and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.0,
+    "zeta": 0.3,
+    "reasoning": "Considering the long-term mood issues and current severe symptoms, a moderate natural frequency and slightly damped recovery are appropriate.",
+    "raw_response": "{\"omega_n\": 1.0, \"zeta\": 0.3, \"reasoning\": \"Considering the long-term mood issues and current severe symptoms, a moderate natural frequency and slightly damped recovery are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.0,
+    "zeta": 0.3,
+    "reasoning": "Considering the chronicity and severity of symptoms, with a moderate level of PHQ-9 score, a balanced natural frequency and damping ratio are chosen.",
+    "raw_response": "{\"omega_n\": 1.0, \"zeta\": 0.3, \"reasoning\": \"Considering the chronicity and severity of symptoms, with a moderate level of PHQ-9 score, a balanced natural frequency and damping ratio are chosen.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the persistent nature and current severity of symptoms, along with comorbid conditions, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the persistent nature and current severity of symptoms, along with comorbid conditions, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the long-term nature of the depression and the presence of comorbid conditions, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the long-term nature of the depression and the presence of comorbid conditions, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the long-term persistent symptoms and current severe episode, with comorbid conditions, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the long-term persistent symptoms and current severe episode, with comorbid conditions, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Based on the patient's history of multiple episodes and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Based on the patient's history of multiple episodes and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Considering the patient's chronic condition and current episode duration, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Considering the patient's chronic condition and current episode duration, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.3,
+    "reasoning": "Given the chronicity and current episode duration, a moderate natural frequency and slight damping are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.3, \"reasoning\": \"Given the chronicity and current episode duration, a moderate natural frequency and slight damping are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the patient's mild depressive symptoms and no history of severe episodes, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's recent onset and mild severity, the recovery is likely moderate in speed and less oscillatory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's recent onset and mild severity, the recovery is likely moderate in speed and less oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the patient's first-time depressive episode and moderate PHQ-9 score, the recovery is likely not extremely fast or slow, suggesting a moderate natural frequency. The absence of severe symptoms or oscillatory behavior points towards a non-oscillatory recovery trajectory.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the patient's first-time depressive episode and moderate PHQ-9 score, the recovery is likely not extremely fast or slow, suggesting a moderate natural frequency. The absence of severe symptoms or oscillatory behavior points towards a non-oscillatory recovery trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Based on the patient's mild depression score and active lifestyle, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Based on the patient's mild depression score and active lifestyle, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the recent stressful event and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the recent stressful event and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Based on the patient's mild depression and active lifestyle, a moderate recovery speed and slightly oscillatory recovery are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Based on the patient's mild depression and active lifestyle, a moderate recovery speed and slightly oscillatory recovery are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's recent stressor and previous remission, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's recent stressor and previous remission, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's recent onset due to bereavement and no prior severe episodes, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's recent onset due to bereavement and no prior severe episodes, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the recent onset and the patient's support system, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the recent onset and the patient's support system, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the recent onset and moderate PHQ-9 score, the recovery is likely not too fast nor too slow, suggesting a moderate natural frequency and damping ratio.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the recent onset and moderate PHQ-9 score, the recovery is likely not too fast nor too slow, suggesting a moderate natural frequency and damping ratio.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's recent onset symptoms due to bereavement and no prior severe issues, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's recent onset symptoms due to bereavement and no prior severe issues, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's chronicity and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's chronicity and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's chronicity and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's chronicity and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's long episode duration and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's long episode duration and lack of clear precipitant, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the patient's chronic condition and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the patient's chronic condition and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the long-term mood issues and current episode, a moderate natural frequency and slight damping are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the long-term mood issues and current episode, a moderate natural frequency and slight damping are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "Considering the chronicity and severity of symptoms, along with comorbidities and lack of social support, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"Considering the chronicity and severity of symptoms, along with comorbidities and lack of social support, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.8,
+    "zeta": 0.6,
+    "reasoning": "Considering the chronicity and severity of symptoms, along with comorbidities and lack of social support, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.6, \"reasoning\": \"Considering the chronicity and severity of symptoms, along with comorbidities and lack of social support, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.8,
+    "zeta": 0.6,
+    "reasoning": "Considering the long-term mood issues, chronic pain, and lack of social interaction, the recovery is likely slow but not extremely oscillatory.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 0.6, \"reasoning\": \"Considering the long-term mood issues, chronic pain, and lack of social interaction, the recovery is likely slow but not extremely oscillatory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 1.2,
+    "reasoning": "Considering the long-term mood issues and current severe symptoms, a moderate natural frequency and damping ratio are chosen to reflect a relatively slow but not overly oscillatory recovery process.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 1.2, \"reasoning\": \"Considering the long-term mood issues and current severe symptoms, a moderate natural frequency and damping ratio are chosen to reflect a relatively slow but not overly oscillatory recovery process.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and slightly underdamped system are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and slightly underdamped system are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 0.8,
+    "reasoning": "Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 0.8, \"reasoning\": \"Given the chronicity and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Given the patient's first-time depressive episode and moderate PHQ-9 score, a moderate recovery speed and slightly oscillatory recovery trajectory are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Given the patient's first-time depressive episode and moderate PHQ-9 score, a moderate recovery speed and slightly oscillatory recovery trajectory are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's mild depressive symptoms and no prior history or comorbidities, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's mild depressive symptoms and no prior history or comorbidities, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent onset and mild severity, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent stressful event and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent stressful event and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent stressor and mild depression, a moderate recovery speed and slightly oscillatory trajectory are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent stressor and mild depression, a moderate recovery speed and slightly oscillatory trajectory are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent stressor and mild depressive symptoms, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent onset due to bereavement and no history of severe symptoms, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent onset due to bereavement and no history of severe symptoms, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent onset and moderate PHQ-9 score, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent onset and moderate PHQ-9 score, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the recent onset and moderate severity, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the recent onset and moderate severity, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent onset and moderate PHQ-9 score, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent onset and moderate PHQ-9 score, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the patient's recent bereavement and second episode, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the patient's recent bereavement and second episode, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the chronic nature and lack of clear precipitant, a moderate natural frequency and moderate damping are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the chronic nature and lack of clear precipitant, a moderate natural frequency and moderate damping are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the chronicity and the patient's history, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the chronicity and the patient's history, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the chronicity and lack of clear precipitant, a moderate natural frequency and moderate damping are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the chronicity and lack of clear precipitant, a moderate natural frequency and moderate damping are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the patient's chronic condition and lack of clear precipitant, a moderate natural frequency and damping ratio are appropriate.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the patient's chronic condition and lack of clear precipitant, a moderate natural frequency and damping ratio are appropriate.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the patient's chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the patient's chronicity and lack of clear precipitants, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.0,
+    "zeta": 2.0,
+    "reasoning": "Considering the long-term nature of the depression and the presence of multiple comorbidities, a moderate natural frequency and a balanced damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.0, \"zeta\": 2.0, \"reasoning\": \"Considering the long-term nature of the depression and the presence of multiple comorbidities, a moderate natural frequency and a balanced damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.0,
+    "zeta": 1.5,
+    "reasoning": "Considering the long-term mood issues and current severity, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.0, \"zeta\": 1.5, \"reasoning\": \"Considering the long-term mood issues and current severity, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the long-term mood issues and current severity, a moderate natural frequency and moderate damping are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the long-term mood issues and current severity, a moderate natural frequency and moderate damping are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.0,
+    "zeta": 2.0,
+    "reasoning": "Considering the long-term nature of the mood issues and the presence of multiple comorbidities, a moderate natural frequency and a moderate damping ratio are chosen.",
+    "raw_response": "{\"omega_n\": 1.0, \"zeta\": 2.0, \"reasoning\": \"Considering the long-term nature of the mood issues and the presence of multiple comorbidities, a moderate natural frequency and a moderate damping ratio are chosen.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.8,
+    "zeta": 2.0,
+    "reasoning": "Considering the long-term mood issues and current severe symptoms, a lower natural frequency is assumed, while a moderate damping ratio is chosen to reflect the presence of comorbid conditions.",
+    "raw_response": "{\"omega_n\": 0.8, \"zeta\": 2.0, \"reasoning\": \"Considering the long-term mood issues and current severe symptoms, a lower natural frequency is assumed, while a moderate damping ratio is chosen to reflect the presence of comorbid conditions.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the chronic nature and current insidious onset, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the chronic nature and current insidious onset, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.2,
+    "zeta": 2.0,
+    "reasoning": "Considering the chronicity and current episode duration, a moderate natural frequency is assumed, while a higher damping ratio reflects the presence of comorbidities and social issues.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 2.0, \"reasoning\": \"Considering the chronicity and current episode duration, a moderate natural frequency is assumed, while a higher damping ratio reflects the presence of comorbidities and social issues.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are estimated.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are estimated.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  },
+  {
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 1.2,
+    "zeta": 1.5,
+    "reasoning": "Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are reasonable.",
+    "raw_response": "{\"omega_n\": 1.2, \"zeta\": 1.5, \"reasoning\": \"Considering the chronicity and current episode duration, a moderate natural frequency and damping ratio are reasonable.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "qwen2.5:7b"
+  }
+]

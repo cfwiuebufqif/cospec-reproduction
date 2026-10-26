@@ -1,0 +1,17 @@
+﻿exact crossing / SG guarantee / sq / sr  (sorted by exact)
+  exact= 19.1%  SG-guaranteed=  1.5%  sq= 50.0 sr=  0.2
+  exact= 22.6%  SG-guaranteed=  1.7%  sq= 50.0 sr=  1.0
+  exact= 26.4%  SG-guaranteed=  2.0%  sq=  5.0 sr=  0.2
+  exact= 34.5%  SG-guaranteed=  2.6%  sq= 50.0 sr=  5.0
+  exact= 42.9%  SG-guaranteed=  3.4%  sq=  1.0 sr=  0.2
+  exact= 42.9%  SG-guaranteed=  3.4%  sq=  5.0 sr=  1.0
+  exact= 60.0%  SG-guaranteed=  6.6%  sq=  0.2 sr=  0.2
+  exact= 60.0%  SG-guaranteed=  6.6%  sq=  1.0 sr=  1.0
+  exact= 60.0%  SG-guaranteed=  6.6%  sq=  5.0 sr=  5.0
+  exact= 60.0%  SG-guaranteed=  6.6%  sq= 50.0 sr= 50.0
+  exact= 60.0%  SG-guaranteed= 10.6%  sq=  0.2 sr=  1.0
+  exact= 60.0%  SG-guaranteed= 10.6%  sq=  1.0 sr=  5.0
+  exact= 60.0%  SG-guaranteed= 12.1%  sq=  5.0 sr= 50.0
+  exact= 60.0%  SG-guaranteed= 13.5%  sq=  0.2 sr=  5.0
+  exact= 60.0%  SG-guaranteed= 13.9%  sq=  1.0 sr= 50.0
+  exact= 60.0%  SG-guaranteed= 14.2%  sq=  0.2 sr= 50.0

@@ -1,0 +1,22 @@
+﻿model m multiplier | plant lin-rho | cost lin-rho
+   0.05 |  1.999 |  0.949
+   0.20 |  0.966 |  0.949
+   0.50 |  0.963 |  0.949
+   1.00 |  0.949 |  0.949
+
+--- no nonlinearity ---
+  m x 0.05 | plant: FELL     (2.40) | cost: UPRIGHT  (0.000)
+  m x 0.20 | plant: UPRIGHT  (0.00) | cost: UPRIGHT  (0.000)
+  m x 1.00 | plant: UPRIGHT  (0.00) | cost: UPRIGHT  (0.000)
+--- saturation 15N ---
+  m x 0.05 | plant: UPRIGHT  (-0.02) | cost: UPRIGHT  (0.000)
+  m x 0.20 | plant: UPRIGHT  (0.00) | cost: UPRIGHT  (0.000)
+  m x 1.00 | plant: UPRIGHT  (0.00) | cost: UPRIGHT  (0.000)
+--- saturation 8N ---
+  m x 0.05 | plant: UPRIGHT  (-0.01) | cost: UPRIGHT  (0.000)
+  m x 0.20 | plant: UPRIGHT  (0.00) | cost: UPRIGHT  (0.000)
+  m x 1.00 | plant: UPRIGHT  (0.00) | cost: UPRIGHT  (0.000)
+--- sat 8N + deadzone 0.5 + Coulomb 0.1 ---
+  m x 0.05 | plant: UPRIGHT  (0.02) | cost: UPRIGHT  (-0.032)
+  m x 0.20 | plant: UPRIGHT  (0.02) | cost: UPRIGHT  (-0.032)
+  m x 1.00 | plant: UPRIGHT  (-0.03) | cost: UPRIGHT  (-0.032)

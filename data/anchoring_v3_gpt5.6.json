@@ -1,0 +1,4502 @@
+[
+  {
+    "idx": 0,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.363,
+    "zeta": 0.948,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 0.363, \"zeta\": 0.948, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 1,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.334,
+    "zeta": 0.859,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 0.334, \"zeta\": 0.859, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 2,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.324,
+    "zeta": 1.203,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 0.324, \"zeta\": 1.203, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 3,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.35,
+    "zeta": 1.115,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 0.35, \"zeta\": 1.115, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 4,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.348,
+    "zeta": 0.865,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 0.348, \"zeta\": 0.865, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 5,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.402,
+    "zeta": 0.925,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 0.402, \"zeta\": 0.925, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 6,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.382,
+    "zeta": 1.045,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 0.382, \"zeta\": 1.045, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 7,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.354,
+    "zeta": 1.008,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 0.354, \"zeta\": 1.008, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 8,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.327,
+    "zeta": 0.984,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 0.327, \"zeta\": 0.984, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 9,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.387,
+    "zeta": 1.015,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 0.387, \"zeta\": 1.015, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 10,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.373,
+    "zeta": 0.955,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.373, \"zeta\": 0.955, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 11,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 0.371,
+    "zeta": 0.913,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.371, \"zeta\": 0.913, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 12,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.346,
+    "zeta": 1.047,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.346, \"zeta\": 1.047, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 13,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.37,
+    "zeta": 0.774,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.37, \"zeta\": 0.774, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 14,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 0.394,
+    "zeta": 0.966,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.394, \"zeta\": 0.966, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 15,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.332,
+    "zeta": 0.752,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.332, \"zeta\": 0.752, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 16,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.381,
+    "zeta": 0.773,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.381, \"zeta\": 0.773, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 17,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.365,
+    "zeta": 0.611,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.365, \"zeta\": 0.611, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 18,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.321,
+    "zeta": 0.843,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.321, \"zeta\": 0.843, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 19,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.32,
+    "zeta": 0.745,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.32, \"zeta\": 0.745, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 20,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.312,
+    "zeta": 0.592,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.312, \"zeta\": 0.592, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 21,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.318,
+    "zeta": 0.734,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.318, \"zeta\": 0.734, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 22,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.282,
+    "zeta": 0.686,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.282, \"zeta\": 0.686, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 23,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.327,
+    "zeta": 0.65,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.327, \"zeta\": 0.65, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 24,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.288,
+    "zeta": 0.752,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.288, \"zeta\": 0.752, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 25,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.374,
+    "zeta": 0.831,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.374, \"zeta\": 0.831, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 26,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.297,
+    "zeta": 0.763,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.297, \"zeta\": 0.763, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 27,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.32,
+    "zeta": 0.726,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.32, \"zeta\": 0.726, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 28,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.32,
+    "zeta": 0.496,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.32, \"zeta\": 0.496, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 29,
+    "condition": "A_vary_omega",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.344,
+    "zeta": 0.655,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.344, \"zeta\": 0.655, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      0.5
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 30,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.277,
+    "zeta": 0.744,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.277, \"zeta\": 0.744, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 31,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.182,
+    "zeta": 0.956,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.182, \"zeta\": 0.956, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 32,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 0.863,
+    "zeta": 0.568,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 0.863, \"zeta\": 0.568, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 33,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.093,
+    "zeta": 0.947,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.093, \"zeta\": 0.947, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 34,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.269,
+    "zeta": 0.948,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.269, \"zeta\": 0.948, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 35,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.332,
+    "zeta": 0.928,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.332, \"zeta\": 0.928, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 36,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.097,
+    "zeta": 1.059,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.097, \"zeta\": 1.059, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 37,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.072,
+    "zeta": 0.858,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.072, \"zeta\": 0.858, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 38,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.386,
+    "zeta": 0.89,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.386, \"zeta\": 0.89, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 39,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.199,
+    "zeta": 0.969,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.199, \"zeta\": 0.969, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 40,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 0.998,
+    "zeta": 0.67,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.998, \"zeta\": 0.67, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 41,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.15,
+    "zeta": 1.092,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.15, \"zeta\": 1.092, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 42,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.222,
+    "zeta": 0.704,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.222, \"zeta\": 0.704, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 43,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 0.993,
+    "zeta": 0.867,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 0.993, \"zeta\": 0.867, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 44,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.097,
+    "zeta": 0.782,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.097, \"zeta\": 0.782, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 45,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.815,
+    "zeta": 0.696,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.815, \"zeta\": 0.696, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 46,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.81,
+    "zeta": 0.874,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.81, \"zeta\": 0.874, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 47,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.884,
+    "zeta": 0.494,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.884, \"zeta\": 0.494, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 48,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.787,
+    "zeta": 0.988,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.787, \"zeta\": 0.988, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 49,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.861,
+    "zeta": 0.842,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.861, \"zeta\": 0.842, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 50,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.924,
+    "zeta": 0.636,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.924, \"zeta\": 0.636, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 51,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.785,
+    "zeta": 0.599,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.785, \"zeta\": 0.599, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 52,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 1.014,
+    "zeta": 0.652,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 1.014, \"zeta\": 0.652, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 53,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.811,
+    "zeta": 0.752,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.811, \"zeta\": 0.752, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 54,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.597,
+    "zeta": 0.845,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.597, \"zeta\": 0.845, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 55,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.952,
+    "zeta": 0.716,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.952, \"zeta\": 0.716, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 56,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.815,
+    "zeta": 0.738,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.815, \"zeta\": 0.738, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 57,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.939,
+    "zeta": 0.485,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.939, \"zeta\": 0.485, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 58,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.985,
+    "zeta": 0.879,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.985, \"zeta\": 0.879, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 59,
+    "condition": "A_vary_omega",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.77,
+    "zeta": 0.745,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.77, \"zeta\": 0.745, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 60,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 2.221,
+    "zeta": 1.046,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 2.221, \"zeta\": 1.046, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 61,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 2.199,
+    "zeta": 0.825,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 2.199, \"zeta\": 0.825, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 62,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 2.592,
+    "zeta": 0.819,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 2.592, \"zeta\": 0.819, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 63,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.932,
+    "zeta": 0.923,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.932, \"zeta\": 0.923, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 64,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.986,
+    "zeta": 1.006,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 2.986, \"zeta\": 1.006, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 65,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 2.506,
+    "zeta": 1.024,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 2.506, \"zeta\": 1.024, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 66,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 2.291,
+    "zeta": 0.981,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 2.291, \"zeta\": 0.981, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 67,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 2.223,
+    "zeta": 1.085,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 2.223, \"zeta\": 1.085, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 68,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 2.629,
+    "zeta": 0.977,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 2.629, \"zeta\": 0.977, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 69,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.962,
+    "zeta": 0.929,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.962, \"zeta\": 0.929, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 70,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 2.361,
+    "zeta": 0.902,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 2.361, \"zeta\": 0.902, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 71,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 2.21,
+    "zeta": 1.106,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 2.21, \"zeta\": 1.106, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 72,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 2.043,
+    "zeta": 0.923,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 2.043, \"zeta\": 0.923, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 73,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 2.464,
+    "zeta": 0.918,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 2.464, \"zeta\": 0.918, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 74,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 2.647,
+    "zeta": 0.92,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 2.647, \"zeta\": 0.92, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 75,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 1.905,
+    "zeta": 0.627,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 1.905, \"zeta\": 0.627, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 76,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 2.397,
+    "zeta": 0.459,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 2.397, \"zeta\": 0.459, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 77,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 2.177,
+    "zeta": 0.597,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 2.177, \"zeta\": 0.597, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 78,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 2.422,
+    "zeta": 0.958,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 2.422, \"zeta\": 0.958, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 79,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 2.072,
+    "zeta": 0.896,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 2.072, \"zeta\": 0.896, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 80,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 2.257,
+    "zeta": 0.893,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 2.257, \"zeta\": 0.893, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 81,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 2.005,
+    "zeta": 0.688,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 2.005, \"zeta\": 0.688, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 82,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 2.005,
+    "zeta": 0.757,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 2.005, \"zeta\": 0.757, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 83,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 2.501,
+    "zeta": 0.631,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 2.501, \"zeta\": 0.631, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 84,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 2.901,
+    "zeta": 0.916,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 2.901, \"zeta\": 0.916, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 85,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 2.404,
+    "zeta": 0.778,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 2.404, \"zeta\": 0.778, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 86,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 1.876,
+    "zeta": 0.522,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 1.876, \"zeta\": 0.522, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 87,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 2.157,
+    "zeta": 0.624,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 2.157, \"zeta\": 0.624, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 88,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 1.455,
+    "zeta": 0.755,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 1.455, \"zeta\": 0.755, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 89,
+    "condition": "A_vary_omega",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 2.485,
+    "zeta": 0.753,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 2.485, \"zeta\": 0.753, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.5,
+      5.0
+    ],
+    "zeta_range": [
+      0.05,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 90,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.324,
+    "zeta": 0.335,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.324, \"zeta\": 0.335, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 91,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.307,
+    "zeta": 0.356,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.307, \"zeta\": 0.356, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 92,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.366,
+    "zeta": 0.347,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.366, \"zeta\": 0.347, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 93,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.271,
+    "zeta": 0.327,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.271, \"zeta\": 0.327, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 94,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.487,
+    "zeta": 0.304,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.487, \"zeta\": 0.304, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 95,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.694,
+    "zeta": 0.32,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.694, \"zeta\": 0.32, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 96,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.404,
+    "zeta": 0.301,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.404, \"zeta\": 0.301, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 97,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.58,
+    "zeta": 0.382,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.58, \"zeta\": 0.382, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 98,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.406,
+    "zeta": 0.329,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.406, \"zeta\": 0.329, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 99,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.544,
+    "zeta": 0.337,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.544, \"zeta\": 0.337, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 100,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.265,
+    "zeta": 0.358,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.265, \"zeta\": 0.358, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 101,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.061,
+    "zeta": 0.347,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.061, \"zeta\": 0.347, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 102,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.396,
+    "zeta": 0.341,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.396, \"zeta\": 0.341, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 103,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.136,
+    "zeta": 0.332,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.136, \"zeta\": 0.332, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 104,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.142,
+    "zeta": 0.359,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.142, \"zeta\": 0.359, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 105,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.58,
+    "zeta": 0.336,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.58, \"zeta\": 0.336, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 106,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.745,
+    "zeta": 0.342,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.745, \"zeta\": 0.342, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 107,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.656,
+    "zeta": 0.34,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.656, \"zeta\": 0.34, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 108,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.466,
+    "zeta": 0.387,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.466, \"zeta\": 0.387, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 109,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.58,
+    "zeta": 0.371,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.58, \"zeta\": 0.371, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 110,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.701,
+    "zeta": 0.366,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.701, \"zeta\": 0.366, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 111,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.44,
+    "zeta": 0.355,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.44, \"zeta\": 0.355, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 112,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.583,
+    "zeta": 0.354,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.583, \"zeta\": 0.354, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 113,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.624,
+    "zeta": 0.372,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.624, \"zeta\": 0.372, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 114,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.444,
+    "zeta": 0.31,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.444, \"zeta\": 0.31, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 115,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.707,
+    "zeta": 0.362,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.707, \"zeta\": 0.362, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 116,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.85,
+    "zeta": 0.312,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.85, \"zeta\": 0.312, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 117,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.766,
+    "zeta": 0.344,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.766, \"zeta\": 0.344, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 118,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.602,
+    "zeta": 0.379,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.602, \"zeta\": 0.379, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 119,
+    "condition": "B_vary_zeta",
+    "range_condition": "narrow_low",
+    "range_lo": 0.1,
+    "range_hi": 0.5,
+    "range_mid": 0.3,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.676,
+    "zeta": 0.35,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.676, \"zeta\": 0.35, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      0.5
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 120,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.32,
+    "zeta": 0.986,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.32, \"zeta\": 0.986, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 121,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.49,
+    "zeta": 1.004,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.49, \"zeta\": 1.004, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 122,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.407,
+    "zeta": 0.93,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.407, \"zeta\": 0.93, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 123,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.303,
+    "zeta": 0.908,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.303, \"zeta\": 0.908, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 124,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.428,
+    "zeta": 0.979,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.428, \"zeta\": 0.979, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 125,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.52,
+    "zeta": 0.982,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.52, \"zeta\": 0.982, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 126,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.495,
+    "zeta": 0.884,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.495, \"zeta\": 0.884, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 127,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.569,
+    "zeta": 1.054,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.569, \"zeta\": 1.054, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 128,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.577,
+    "zeta": 1.084,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.577, \"zeta\": 1.084, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 129,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.277,
+    "zeta": 1.119,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.277, \"zeta\": 1.119, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 130,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.338,
+    "zeta": 1.161,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.338, \"zeta\": 1.161, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 131,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.143,
+    "zeta": 1.113,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.143, \"zeta\": 1.113, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 132,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.091,
+    "zeta": 0.998,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.091, \"zeta\": 0.998, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 133,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.176,
+    "zeta": 1.127,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.176, \"zeta\": 1.127, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 134,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.404,
+    "zeta": 0.93,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.404, \"zeta\": 0.93, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 135,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.606,
+    "zeta": 1.025,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.606, \"zeta\": 1.025, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 136,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.632,
+    "zeta": 0.836,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.632, \"zeta\": 0.836, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 137,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.706,
+    "zeta": 0.96,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.706, \"zeta\": 0.96, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 138,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.709,
+    "zeta": 1.069,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.709, \"zeta\": 1.069, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 139,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.529,
+    "zeta": 0.99,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.529, \"zeta\": 0.99, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 140,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.532,
+    "zeta": 0.99,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.532, \"zeta\": 0.99, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 141,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.626,
+    "zeta": 0.881,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.626, \"zeta\": 0.881, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 142,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.304,
+    "zeta": 0.79,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.304, \"zeta\": 0.79, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 143,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.63,
+    "zeta": 0.899,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.63, \"zeta\": 0.899, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 144,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.511,
+    "zeta": 0.787,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.511, \"zeta\": 0.787, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 145,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.509,
+    "zeta": 0.73,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.509, \"zeta\": 0.73, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 146,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.475,
+    "zeta": 0.851,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.475, \"zeta\": 0.851, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 147,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.522,
+    "zeta": 1.058,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.522, \"zeta\": 1.058, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 148,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.631,
+    "zeta": 0.901,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.631, \"zeta\": 0.901, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 149,
+    "condition": "B_vary_zeta",
+    "range_condition": "mid",
+    "range_lo": 0.1,
+    "range_hi": 2.0,
+    "range_mid": 1.05,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.521,
+    "zeta": 0.981,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.521, \"zeta\": 0.981, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.1,
+      2.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 150,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.39,
+    "zeta": 2.185,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.39, \"zeta\": 2.185, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 151,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.437,
+    "zeta": 2.057,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.437, \"zeta\": 2.057, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 152,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.375,
+    "zeta": 2.603,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.375, \"zeta\": 2.603, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 153,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.288,
+    "zeta": 2.225,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.288, \"zeta\": 2.225, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 154,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v1",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.612,
+    "zeta": 2.452,
+    "reasoning": "A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.",
+    "raw_response": "{\"omega_n\": 1.612, \"zeta\": 2.452, \"reasoning\": \"A first, mild, trigger-linked episode with intact functioning and strong support suggests a fairly quick, smooth recovery.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 155,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.548,
+    "zeta": 2.025,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.548, \"zeta\": 2.025, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 156,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.558,
+    "zeta": 2.373,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.558, \"zeta\": 2.373, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 157,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.281,
+    "zeta": 1.82,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.281, \"zeta\": 1.82, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 158,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.551,
+    "zeta": 2.098,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.551, \"zeta\": 2.098, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 159,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v2",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.492,
+    "zeta": 2.027,
+    "reasoning": "A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.",
+    "raw_response": "{\"omega_n\": 1.492, \"zeta\": 2.027, \"reasoning\": \"A situational single episode in a resilient, well-supported young student points to rapid, non-oscillatory improvement.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 160,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 0,
+    "omega_n": 1.221,
+    "zeta": 1.911,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.221, \"zeta\": 1.911, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 161,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 1,
+    "omega_n": 1.193,
+    "zeta": 2.156,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.193, \"zeta\": 2.156, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 162,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 2,
+    "omega_n": 1.329,
+    "zeta": 2.184,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.329, \"zeta\": 2.184, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 163,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 3,
+    "omega_n": 1.19,
+    "zeta": 2.551,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.19, \"zeta\": 2.551, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 164,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v3",
+    "prognosis": "fast",
+    "trial": 4,
+    "omega_n": 1.201,
+    "zeta": 2.148,
+    "reasoning": "A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.",
+    "raw_response": "{\"omega_n\": 1.201, \"zeta\": 2.148, \"reasoning\": \"A prior episode that remitted cleanly, plus stable support, favors moderately fast recovery despite the recurrence.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 165,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.543,
+    "zeta": 2.221,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.543, \"zeta\": 2.221, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 166,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.377,
+    "zeta": 2.389,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.377, \"zeta\": 2.389, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 167,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.747,
+    "zeta": 2.073,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.747, \"zeta\": 2.073, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 168,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.585,
+    "zeta": 2.244,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.585, \"zeta\": 2.244, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 169,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v4",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.6,
+    "zeta": 1.929,
+    "reasoning": "Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.",
+    "raw_response": "{\"omega_n\": 0.6, \"zeta\": 1.929, \"reasoning\": \"Repeated episodes over many years with comorbid anxiety and thin support indicate a slow, less smooth course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 170,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.607,
+    "zeta": 2.204,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.607, \"zeta\": 2.204, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 171,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.294,
+    "zeta": 2.309,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.294, \"zeta\": 2.309, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 172,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.366,
+    "zeta": 1.793,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.366, \"zeta\": 1.793, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 173,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.532,
+    "zeta": 2.3,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.532, \"zeta\": 2.3, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 174,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v5",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.566,
+    "zeta": 1.987,
+    "reasoning": "Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.",
+    "raw_response": "{\"omega_n\": 0.566, \"zeta\": 1.987, \"reasoning\": \"Two decades of persistent low mood, comorbid pain and insomnia, and isolation suggest a very slow trajectory.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 175,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 0,
+    "omega_n": 0.509,
+    "zeta": 1.954,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.509, \"zeta\": 1.954, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 176,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 1,
+    "omega_n": 0.53,
+    "zeta": 2.392,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.53, \"zeta\": 2.392, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 177,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 2,
+    "omega_n": 0.56,
+    "zeta": 1.904,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.56, \"zeta\": 1.904, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 178,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 3,
+    "omega_n": 0.585,
+    "zeta": 2.0,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.585, \"zeta\": 2.0, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  },
+  {
+    "idx": 179,
+    "condition": "B_vary_zeta",
+    "range_condition": "wide_high",
+    "range_lo": 0.5,
+    "range_hi": 5.0,
+    "range_mid": 2.75,
+    "vignette": "v6",
+    "prognosis": "slow",
+    "trial": 4,
+    "omega_n": 0.726,
+    "zeta": 2.184,
+    "reasoning": "Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.",
+    "raw_response": "{\"omega_n\": 0.726, \"zeta\": 2.184, \"reasoning\": \"Frequent recurrent episodes with comorbid alcohol use and only partial prior response imply a slow course.\"}",
+    "parse_ok": true,
+    "wn_range": [
+      0.1,
+      2.0
+    ],
+    "zeta_range": [
+      0.5,
+      5.0
+    ],
+    "model": "gpt5.6-selfrun"
+  }
+]

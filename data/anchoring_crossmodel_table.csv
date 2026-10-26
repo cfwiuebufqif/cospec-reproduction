@@ -1,0 +1,7 @@
+file	ver	model	A:omega RANGE	A:omega VIGN	A:zeta RANGE	A:zeta VIGN	B:zeta RANGE	B:zeta VIGN	B:omega RANGE	B:omega VIGN
+anchoring_v2_deepseek-chat.json	v2	?	60.9	24.9	31.0	0.6	83.5	6.3	0.0	98.5
+anchoring_v2_qwen2.5_7b.json	v2	?	87.2	4.9	22.5	59.6	86.7	5.3	3.1	86.1
+anchoring_v3_chatgpt.json	v3	ChatGPT-Auto								
+anchoring_v3_deepseek-chat.json	v3	deepseek-chat	68.5	17.5	10.9	56.6	87.1	4.4	0.1	88.6
+anchoring_v3_gpt5.6.json	v3	gpt5.6-selfrun	93.4	1.0	1.6	45.1	97.0	0.2	0.1	93.7
+anchoring_v3_qwen2.5_7b.json	v3	qwen2.5:7b	92.4	1.9	87.2	2.9	93.3	1.6	18.1	42.3

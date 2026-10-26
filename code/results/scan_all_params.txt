@@ -1,0 +1,18 @@
+﻿cases where PLANT routing fails; does saturation help?
+ field | mult | lin-rho | no-sat | sat15 | sat8 | cost no-sat | cost sat8
+  M |   0.02 |  1.122 | FELL  | FELL  | FELL  | UP    | UP   
+  M |   0.05 |  1.087 | FELL  | FELL  | FELL  | UP    | UP   
+  M |   0.10 |  1.069 | FELL  | FELL  | FELL  | UP    | UP   
+  M |   0.20 |  1.034 | FELL  | FELL  | FELL  | UP    | UP   
+  M |   5.00 |  2.241 | FELL  | FELL  | FELL  | UP    | UP   
+  M |  10.00 |  4.671 | FELL  | UP    | UP    | UP    | UP   
+  M |  20.00 |  9.612 | FELL  | FELL  | UP    | UP    | UP   
+  m |   0.02 |  5.251 | FELL  | FELL  | FELL  | UP    | UP   
+  m |   0.05 |  1.999 | FELL  | UP    | UP    | UP    | UP   
+  l |   0.02 |  6.332 | FELL  | FELL  | FELL  | UP    | UP   
+  l |   0.05 |  2.306 | FELL  | FELL  | FELL  | UP    | UP   
+  l |   5.00 |  3.128 | FELL  | FELL  | FELL  | UP    | UP   
+  l |  10.00 |  7.350 | FELL  | FELL  | FELL  | UP    | UP   
+  l |  20.00 | 16.864 | FELL  | FELL  | FELL  | UP    | UP   
+  I |  10.00 |  1.541 | FELL  | FELL  | UP    | UP    | UP   
+  I |  20.00 |  3.001 | FELL  | FELL  | FELL  | UP    | UP   

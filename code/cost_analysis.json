@@ -1,0 +1,34 @@
+{
+  "deepseek-chat": {
+    "n": 120,
+    "parsed": 120,
+    "admitted": 120,
+    "admit_rate": 1.0,
+    "reject_reasons": {},
+    "cost_median": 1.3273983814017145,
+    "cost_p95": 1.658784485013978,
+    "cost_max": 1.6947264567427724,
+    "bound_median": 18.0,
+    "bound_p95": 59.999999999999986,
+    "q12_fast": 2.0,
+    "q12_slow": 1.8333333333333335,
+    "q12_eta_vignette": 0.14092460691003184,
+    "rejected": 0
+  },
+  "qwen2.5:7b": {
+    "n": 120,
+    "parsed": 120,
+    "admitted": 120,
+    "admit_rate": 1.0,
+    "reject_reasons": {},
+    "cost_median": 1.3309396981466735,
+    "cost_p95": 1.344048856033624,
+    "cost_max": 1.5122140627477823,
+    "bound_median": 11.999999999999996,
+    "bound_p95": 12.499999999999995,
+    "q12_fast": 1.4166666666666667,
+    "q12_slow": 1.3333333333333333,
+    "q12_eta_vignette": 0.41284465800076936,
+    "rejected": 0
+  }
+}
